@@ -7,3 +7,6 @@
 * [Make](Make.md)
 * [Miscellaneous](Miscellaneous/README.md)
     * [Customary Units of Length](Miscellaneous/CustomaryUnitsofLength.md)
+    * [British Isles](Miscellaneous/BritishIsles.md)
+* [Tech](Tech/README.md)
+    * [Make](Tech/Make.md)
