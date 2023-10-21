@@ -2,13 +2,13 @@
 - gitbook build (root directory) (or gitbook serve)
 - src code (master directory)
     - rm _book/.gitignore
+    - rm -rf ~/code/wiki/_book/*
     - cp -r ~/code/wiki/master/_book ~/code/wiki/
     - rm -rf ~/code/wiki/master/_book
     - git add .
     - git commit -m ""
     - git push -u origin master
 - github page (_book directory)
-    - rm -rf ~/code/wiki/_book/*
     - git add .
     - git commit -m ""
     - git push -u origin gh-pages
