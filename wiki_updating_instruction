@@ -1,4 +1,6 @@
 # gitbook update
+- modify SUMMARY
+- create/modify file <!-- ex_nolevel -->
 - gitbook build (root directory) (or gitbook serve)
 - src code (master directory)
     - rm _book/.gitignore

@@ -1,3 +1,3 @@
-# Algorithm
+<!-- ex_nolevel -->
 
-残酷刷题笔记
+[残酷刷题](http://board.cruelcoding.com)

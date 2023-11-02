@@ -1,3 +1,4 @@
+<!-- ex_nolevel -->
 # Binary Search
 
 单调问题是适用二分的必要前提，问题场景需要是某个函数上的任意一段单调位置。
@@ -5,29 +6,29 @@
 写2226这类问题基本靠蒙边界AC。
 
 ```cpp
-    while (left < right){
-        int mid = right - (right - left) / 2;
-        if (isOK){
-            left = mid;
-        }else{
-            right = mid - 1;
-        }
+while (left < right){
+    int mid = right - (right - left) / 2;
+    if (isOK){
+        left = mid;
+    }else{
+        right = mid - 1;
     }
-	return left;
+}
+return left;
 ```
 
 用这个板子对了，但用
 
 ```cpp
-    while (left < right){
-        int mid = left + (right - left) / 2;
-        if (isOK){
-            left = mid + 1;
-        }else{
-            right = mid;
-        }
+while (left < right){
+    int mid = left + (right - left) / 2;
+    if (isOK){
+        left = mid + 1;
+    }else{
+        right = mid;
     }
-	return left;
+}
+return left;
 ```
 
 结果不对，会大1。
