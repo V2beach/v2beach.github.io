@@ -1,5 +1,15 @@
 {
     "plugins": [
-        "-livereload"
-    ]
+        "-livereload",
+        "auto-scroll-table",
+        "hide-element",
+        "anchor-navigation-ex",
+        "-simple-page-toc",
+        "expandable-chapters-small"
+    ], 
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        }
+    }
 }
