@@ -7,6 +7,6 @@ wiki /ˈwɪki/, a website or database developed collaboratively by a community o
 
 /Tech是随意的技术笔记。
 
-/Algorithm是对算法理解。
+/Algorithm是对算法的理解。
 
 /Hybrid是上面的补集。ChatGPT说a hybrid can be made of more than two things就用了。
