@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Regular Expression · GitBook</title>
+        <title>Hexo报错ERR_INVALID_ARG_TYPE · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -69,10 +69,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="ApachePHPonMacOSM1.html" />
+    <link rel="next" href="DarkNet.html" />
     
     
-    <link rel="prev" href="Make.html" />
+    <link rel="prev" href="ApachePHPonMacOSM1.html" />
     
 
     </head>
@@ -141,7 +141,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.2.2" data-path="RegularExpression.html">
+        <li class="chapter " data-level="1.2.2" data-path="RegularExpression.html">
             
                 <a href="RegularExpression.html">
             
@@ -167,7 +167,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2.4" data-path="HexoNodeJSBug.html">
+        <li class="chapter active" data-level="1.2.4" data-path="HexoNodeJSBug.html">
             
                 <a href="HexoNodeJSBug.html">
             
@@ -409,7 +409,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >Regular Expression</a>
+        <a href=".." >Hexo报错ERR_INVALID_ARG_TYPE</a>
     </h1>
 </div>
 
@@ -424,23 +424,16 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <table>
-<thead>
-<tr>
-<th>&#x5F0F;&#x5B50;</th>
-<th>&#x6CD5;&#x5B50;</th>
-<th>&#x4F8B;&#x5B50;</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>(pattern)</td>
-<td>&#x5339;&#x914D; pattern &#x5E76;&#x83B7;&#x53D6;&#x8FD9;&#x4E00;&#x5339;&#x914D;&#x3002;&#x6240;&#x83B7;&#x53D6;&#x7684;&#x5339;&#x914D;&#x53EF;&#x4EE5;&#x4ECE;&#x4EA7;&#x751F;&#x7684; Matches &#x96C6;&#x5408;&#x5F97;&#x5230;&#xFF0C;&#x5728;VBScript &#x4E2D;&#x4F7F;&#x7528; SubMatches &#x96C6;&#x5408;&#xFF0C;&#x5728;JScript &#x4E2D;&#x5219;&#x4F7F;&#x7528; $0&#x2026;$9 &#x5C5E;&#x6027;&#x3002;&#x8981;&#x5339;&#x914D;&#x5706;&#x62EC;&#x53F7;&#x5B57;&#x7B26;&#xFF0C;&#x4F7F;&#x7528; &apos;(&apos; &#x6216; &apos;)&apos;&#x3002;</td>
-<td>&#x7528;IMG_(....)&#x5339;&#x914D;IMG_0123, IMG_3210&#xFF0C;&#x7528;\<img src="../pics/NAS/IMG/_$1.JPG" \="">&#x66FF;&#x6362;&#x6269;&#x5C55;&#x5339;&#x914D;&#x5230;&#x7684;&#x6587;&#x4EF6;&#x540D;&#xFF0C;&#x5E76;&#x4E14;&#x4FDD;&#x7559;&#x539F;&#x672C;&#x7684;&#x6587;&#x4EF6;&#x540D;&#x3002;</td>
-</tr>
-</tbody>
-</table>
-
+                                <pre><code>TypeError [ERR_INVALID_ARG_TYPE]: The &quot;fd&quot; argument must be of type number. Received null
+node:internal/validators:117 throw new ERR_INVALID_ARG_TYPE(name, &apos;number&apos;, value);
+at process.processTicksAndRejections (node:internal/process/task_queues:77:11) { code: &apos;ERR_INVALID_ARG_TYPE&apos;
+...
+at node_modules/warehouse/lib/database.js:14:12
+...
+</code></pre><p>&#x51FA;&#x8FD9;&#x4E2A;&#x95EE;&#x9898;&#x662F;&#x56E0;&#x4E3A;&#x7248;&#x672C;&#x51B2;&#x7A81;&#xFF0C;&#x9700;&#x8981;&#x964D;&#x7248;&#x672C;&#x3002;</p>
+<pre><code>brew search node
+brew install node@16
+</code></pre>
                                 
                                 </section>
                             
@@ -467,12 +460,12 @@
 
             
                 
-                <a href="Make.html" class="navigation navigation-prev " aria-label="Previous page: Make">
+                <a href="ApachePHPonMacOSM1.html" class="navigation navigation-prev " aria-label="Previous page: apache-php on macOS M1">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="ApachePHPonMacOSM1.html" class="navigation navigation-next " aria-label="Next page: apache-php on macOS M1">
+                <a href="DarkNet.html" class="navigation navigation-next " aria-label="Next page: 暗网再探索">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -483,7 +476,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Regular Expression","level":"1.2.2","depth":2,"next":{"title":"apache-php on macOS M1","level":"1.2.3","depth":2,"path":"Tech/ApachePHPonMacOSM1.md","ref":"Tech/ApachePHPonMacOSM1.md","articles":[]},"previous":{"title":"Make","level":"1.2.1","depth":2,"path":"Tech/Make.md","ref":"Tech/Make.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["-livereload","auto-scroll-table","hide-element","anchor-navigation-ex","-simple-page-toc","expandable-chapters-small"],"pluginsConfig":{"search":{},"auto-scroll-table":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-element":{"elements":[".gitbook-link"]},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"anchor-navigation-ex":{"associatedWithSummary":true,"float":{"floatIcon":"fa fa-navicon","level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"mode":"float","multipleH1":true,"pageTop":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"printLog":false,"showGoTop":true,"showLevel":true},"expandable-chapters-small":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Tech/RegularExpression.md","mtime":"2023-11-01T04:43:33.846Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-11-09T09:41:18.184Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Hexo报错ERR_INVALID_ARG_TYPE","level":"1.2.4","depth":2,"next":{"title":"暗网再探索","level":"1.2.5","depth":2,"path":"Tech/DarkNet.md","ref":"Tech/DarkNet.md","articles":[]},"previous":{"title":"apache-php on macOS M1","level":"1.2.3","depth":2,"path":"Tech/ApachePHPonMacOSM1.md","ref":"Tech/ApachePHPonMacOSM1.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["-livereload","auto-scroll-table","hide-element","anchor-navigation-ex","-simple-page-toc","expandable-chapters-small"],"pluginsConfig":{"search":{},"auto-scroll-table":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"hide-element":{"elements":[".gitbook-link"]},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"anchor-navigation-ex":{"associatedWithSummary":true,"float":{"floatIcon":"fa fa-navicon","level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"mode":"float","multipleH1":true,"pageTop":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"printLog":false,"showGoTop":true,"showLevel":true},"expandable-chapters-small":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Tech/HexoNodeJSBug.md","mtime":"2023-11-08T06:35:11.171Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2023-11-09T09:41:18.184Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
