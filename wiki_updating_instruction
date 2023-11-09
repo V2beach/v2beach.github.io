@@ -17,3 +17,18 @@
 
 (base) v2beach@V2beachs-mbp-m1 _book % git config --global http.proxy 127.0.0.1:8001
 (base) v2beach@V2beachs-mbp-m1 _book % git config --global https.proxy 127.0.0.1:8001
+
+one step copy:
+cd ~/code/wiki/master
+gitbook build
+rm _book/.gitignore
+rm -rf ~/code/wiki/_book/*
+cp -r ~/code/wiki/master/_book ~/code/wiki/
+rm -rf ~/code/wiki/master/_book
+git add .
+git commit -m "update"
+git push -u origin master
+cd ~/code/wiki/_book
+git add .
+git commit -m "update"
+git push -u origin gh-pages
