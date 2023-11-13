@@ -26,9 +26,9 @@ rm -rf ~/code/wiki/_book/*
 cp -r ~/code/wiki/master/_book ~/code/wiki/
 rm -rf ~/code/wiki/master/_book
 git add .
-git commit -m "update"
+git commit -m "bible and footble"
 git push -u origin master
 cd ~/code/wiki/_book
 git add .
-git commit -m "update"
+git commit -m "bible and footble"
 git push -u origin gh-pages
