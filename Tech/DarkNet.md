@@ -1,5 +1,5 @@
 ![Darkweb.](/assets/Thumbnail_Darkweb.png)
-
+```
 Last login: Thu Nov  9 17:36:59 on ttys008
 /Applications/Tor\ Browser.app/Contents/MacOS/firefox ; exit;
 (base) v2beach@V2beachs-mbp-m1 ~ % /Applications/Tor\ Browser.app/Contents/MacOS/firefox ; exit;
@@ -29,7 +29,7 @@ Saving session...
 ...completed.
 
 [Process completed]
-
+```
 试了一整个下午，tor本身可以连接但在brave里连接不上，tor browser始终报上面的错。
 
 失败，之后换windows/freebsd再试。
