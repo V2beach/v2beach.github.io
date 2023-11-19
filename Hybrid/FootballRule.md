@@ -1,7 +1,3 @@
-亚运会去看了足球、曲棍球、棒球、拳击残运举重、残运击剑六个项目，都相当有趣。
-
-最有趣的是棒球，看完亚运比赛之后就一直追完了MLB的季后赛。今天来了解下一直感兴趣的橄榄球的历史和规则。
-
 基本是直接从维基百科摘抄来的，但整合成了只有我感兴趣的部分。
 
 # Rugby Football
@@ -24,8 +20,10 @@ Ireland, Gaelic football
 
 Asutrilian football
 ![](/assets/Stoppage_in_an_AFL_game.jpg)
+
 踢球进门柱间是基本得分方法。
 ![](/assets/Aussie_rules_kicking.jpg)
+
 球场示意图——
 ![](/assets/1024px-AFL_stadium.svg.png)
 
@@ -145,3 +143,6 @@ The three types of scrimmage kicks are place kicks, drop kicks, and punts. Only 
 #### 特殊情况
 
 若犯规被罚的码数越过第一次进攻目标线，亦同样自行获得新的进攻权（例如：攻方在“2攻3码”时，守方有球员越位，攻方可以获得新的四次进攻）。若攻守双方被罚的后退的码线位于端区，球会放在2码线开始；若攻守方在已方的2码线内犯规，无论是多少码数的处罚，罚的码数均会变成跟端区的一半距离，直至球的一部分进入端区，对手可获得安全分（2009年超级碗，匹兹堡钢人队正好被处罚了一个相同情况的安全分）。
+
+## 好看的比赛
+- [Super Bowl 54 FULL Game: Kansas City Chiefs vs. San Francisco 49ers](https://www.youtube.com/watch?v=jQ1l5zenaKY)
