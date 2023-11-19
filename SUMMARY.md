@@ -22,6 +22,7 @@
     * [橄榄球相关！](/Hybrid/FootballRule.md)
     * [希伯来语](/Hybrid/Hebrew.md)
     * [Jerusalem: The Biography](/Hybrid/Jerusalem.md)
+    * [LoL字谜](/Hybrid/lolpuzzle.md)
 * [Algorithm](Algorithm/README.md)
     * [Binary Search](Algorithm/BinarySearch.md)
     * [Pack](Algorithm/Pack.md)
