@@ -10,3 +10,11 @@ wiki /ˈwɪki/, a website or database developed collaboratively by a community o
 /Algorithm是对算法的理解。
 
 /Hybrid是上面的补集。ChatGPT说a hybrid can be made of more than two things就用了。
+
+/Language consists of notes about English, עִבְרִית, $ProgrammingLanguage, and maybe other foreign languages.
+
+'Contains' means something may include a particular thing but there may be other things also present in it. 'Consists' means that a particular thing has only these many things present in it. Apart from them nothing else is present.
+
+postscript(p.s.), 有时我会把gitbook的笔记当成博客的草稿。
+
+[Tortoise vs. Hare, who wins?](https://www.youtube.com/watch?v=m7NuVjpi72c)
