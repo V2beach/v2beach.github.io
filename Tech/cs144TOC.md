@@ -46,4 +46,6 @@ Internet Today
 
 CS144 is a lab-based systems course: 45% of your grade is based the programming lab in C++, which means you need to be very comfortable with C++ and using standard debugging tools (if you are reading through thousands of lines of printf output you are doing something wrong).
 
-重学完Computer Networking再重学一下OS，本科都有些走马观花。
+And I'll write notes about lectures and labs in English.
+
+重学完Computer Networking再重学一下[OS](https://csdiy.wiki/操作系统/MIT6.S081/)，本科都有些走马观花。
