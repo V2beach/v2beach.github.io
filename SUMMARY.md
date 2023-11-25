@@ -24,7 +24,7 @@
     * [Jerusalem: The Biography](/Hybrid/Jerusalem.md)
     * [LoL字谜，汉兜成语谜](/Hybrid/lolpuzzle.md)
     * [中国建筑](/Hybrid/ChineseArchitecture.md)
-    * [胆固醇解药](/Hybrid/cholesterol.md)
+    * [胆固醇及解药、脂肪、蛋白质](/Hybrid/cholesterol.md)
 * [Algorithm](Algorithm/README.md)
     * [Binary Search](Algorithm/BinarySearch.md)
     * [Pack](Algorithm/Pack.md)
