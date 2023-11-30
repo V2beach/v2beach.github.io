@@ -211,7 +211,12 @@ glycerin is the common or commercial name of glycerol, which contains mostly 95%
 
 glyceride is compound of glycerol and organic acids, 1864; see glycerin + -ide.
 
-triglyceride/traɪˈɡlɪs.ə.raɪd/, 三酰甘油.
+triglyceride/traɪˈɡlɪs.ə.raɪd/, 三酰甘油. A triglyceride (TG, triacylglycerol, TAG, or triacylglyceride) is an ester(/ˈes.tər/, 酯) derived from glycerol and three fatty acids (from tri- and glyceride). triacylglycerols, = tri + **acyl(/ˈeɪsʌɪl/, 酰)** + glycerol(丙三醇).
+
+![acyl](/assets/acyl.png)
+
+>https://www.etymonline.com/word/-yl
+>chemical suffix used in forming names of radicals, from French -yle, from Greek hylē "wood," also "building stuff, raw material" (from which something is made), of unknown origin.
 
 lipid, 脂质, "organic substance of the fat group," 1925, from French lipide, coined 1923 by G. Bertrand from Greek lipos "fat, grease" (see lipo-) + chemical suffix -ide.
 
@@ -241,7 +246,7 @@ glucose/ˈɡluː.kəʊs/, 葡萄糖, name of a group of sugars (in commercial us
 
 gluc和gluco是glyc和glyco较新的形式。
 
-glycolysis/ɡlʌɪˈkɒlɪsɪs/, 醣酵解, 1891, from French; see glyco- + -lysis.
+glycolysis/ɡlʌɪˈkɒlɪsɪs/, 醣酵解, 1891, from French; see glyco- + -lysis. 又叫糖解，醣解（正體字：在一般情況下，單醣和雙醣是較小的（低分子量）的碳水化合物，通常稱為糖）。
 
 gluconeogenesis(formation of new sugar)糖质新生(GNG), gluco-neo(new)-genesis, Old English Genesis from Latin genesis "generation, nativity".
 
@@ -257,7 +262,7 @@ pyruvate/paɪˈruvet/, n. \[化\]丙酮酸盐；\[化\]丙酮酸酯, pyr(o)– +
 >uva "grape," from PIE root *og- "fruit, berry."
 >uvula/ˈjuː.vjə.lə/
 
-Acetyl-CoA, acetyl/'æsɪtaɪl/乙酰, as a carrier of acyl groups, is an essential cofactor. 乙酰辅酶A
+Acetyl-CoA, **acetyl/'æsɪtaɪl/**乙酰, as a carrier of acyl groups, is an essential cofactor. 乙酰辅酶A
 
 nucleic/nju:'kli:ik/, 核的, "referring to a nucleus," 1892, in nucleic acid, which is a translation of German Nukleinsäure (1889), from Nuklein "substance obtained from a cell nucleus" (see nucleus + -in) + -ic.
 
@@ -288,6 +293,33 @@ photosynthesis/ˌfəʊ.təʊˈsɪn.θə.sɪs/, 光合作用, word-forming elemen
 
 METABOLISM. 课程slide里的图找不到，这个图跟slide里的画风不太一样且中轴线对称。
 ![三磷酸腺苷的生物能学](/assets/三磷酸腺苷的生物能学.png)
+
+中间的是糖类，多糖到单糖到糖解得到丙酮酸pyruvate进而得到乙酰辅酶A，然后进行柠檬酸循环，生成还原型辅酶，进入最下面的电子传递系统。两边分别是蛋白质和脂质。
+
+脂肪酸要氧化代谢也要转换成乙酰辅酶A，脂肪酸是接近完全还原状态的生物分子，所以要经过氧化代谢作用再氧化分解。
+
+在重要的地方，比如**肝细胞**，没有被用到ATP反应的乙酰辅酶A会用来合成ketone body，酮体是肝脏脂肪酸氧化分解的中间产物乙酰乙酸、β-羟基丁酸及丙酮三者统称。酮体和酮酸是替代葡萄糖的能量物质。在肌肉细胞就不会合成，因为基本都用作能量合成了。
+
+他叫这玩意乙烯基辅酶A？
+
+>与氧化合或失去氢(或称加氧去氢)的反应称为氧化；把与氢化合或失去氧(或称加氢去氧)的反应称为还原。氧化还原反应的本质是电子的得失或共用电子对的偏移。
+
+所谓的脂肪酸的alpha, beta, omega氧化，就是在alpha, beta, omega三个碳上氧化，氧化实际上就是脱氢生成酮(CO double bond)，之后又会在这个CO double bond上切割，beta氧化切割下来的就是醋酸(乙酸（英語：ethanoic acid）又稱醋酸（英語：acetic acid），CH3COOH有机一元酸和短鏈饱和脂肪酸，為食醋酸味及刺激性氣味的來源)。
+
+Greek letters are also sometimes used to denote positions relative to the carboxyl carbon. The following diagram illustrates how Greek letters are used to denote positions relative to either end of a fatty acid chain.
+
+![Nomenclature, Systems: Greek Letters are Used in Two Ways](/assets/fa_polypatt02.gif)
+
+- The first carbon following the carboxyl carbon is the alpha carbon.
+- The second carbon following the carboxyl carbon is the beta carbon.
+- The last carbon in the chain, farthest from the carboxyl group, is the omega carbon.
+
+from [Utah/ˈjuː.tɑː/ Medical](https://library.med.utah.edu/NetBiochem/FattyAcids/4_1d.html)
+
+一般酰基（蓝色），酰基离子（顶部中央），酰基自由基（右上），酮（左上），醛（左下），酯（底部中央），酰胺（右下）。 （R1，R2，R3：有机取代基或氢）。
+![酰xiān基(acyl group)](/assets/Acyl_group_V.0.svg.png)
+
+
 
 # 胆固醇代谢
 
