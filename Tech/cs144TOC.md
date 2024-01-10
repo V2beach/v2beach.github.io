@@ -49,3 +49,5 @@ CS144 is a lab-based systems course: 45% of your grade is based the programming 
 And I'll write notes about lectures and labs in English.
 
 重学完Computer Networking再重学一下[OS](https://csdiy.wiki/操作系统/MIT6.S081/)，本科都有些走马观花。
+
+https://www.zhihu.com/question/386048983光纤出现之前，互联网是怎么工作的？

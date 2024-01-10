@@ -5,7 +5,7 @@ wiki /ˈwɪki/, a website or database developed collaboratively by a community o
 
 结构是，
 
-/Tech是随意的技术笔记。
+/Tech是随意的科学技术笔记。
 
 /Algorithm是对算法的理解。
 

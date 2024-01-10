@@ -338,3 +338,5 @@ from [Utah/ˈjuː.tɑː/ Medical](https://library.med.utah.edu/NetBiochem/FattyA
 catabolism
 
 申请wikipedia权限。
+
+2023年狂欢gap了一年，好像没有读完任何一本书。
