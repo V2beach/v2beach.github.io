@@ -13,7 +13,9 @@ wiki /ˈwɪki/, a website or database developed collaboratively by a community o
 
 /Language consists of notes about English, עִבְרִית, $ProgrammingLanguage, and maybe other foreign languages.
 
-'Contains' means something may include a particular thing but there may be other things also present in it. 'Consists' means that a particular thing has only these many things present in it. Apart from them nothing else is present.
+>'Contains' means something may include a particular thing but there may be other things also present in it. 'Consists' means that a particular thing has only these many things present in it. Apart from them nothing else is present.
+
+/Log是我的chip log，收容在这儿是由于现在不像多年前写得那么频繁，也不想放到太显眼的位置。
 
 postscript(p.s.), 有时我会把gitbook的笔记当成博客的草稿。
 

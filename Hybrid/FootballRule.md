@@ -54,7 +54,7 @@ The **touchdown (TD, 达阵6分)**, worth six points, is the most valuable scori
 
 The scoring team then attempts a try or conversion (附加得分), more commonly known as the **point(s)-after-touchdown (PAT)**, which is a single scoring opportunity. A PAT is most commonly attempted from the two- or three-yard line, depending on the level of play. If a PAT is scored by a place kick or drop kick through the goal posts, it is worth one point, typically called the **extra point. (踢进1分)** If it is scored by what would normally be a touchdown it is worth two points, typically called the **two-point conversion. (触地2分)**
 
-![Alt text](/assets/football-two-point-conversion.png)
+![](/assets/football-two-point-conversion.png)
 
 A **field goal (FG, 射门3分)**, worth three points, is scored when the ball is place kicked (定点球, 一个人按着) or drop kicked (落地球, 球扔地上弹起来踢, rugby比较多而美式改尖后不好踢) through the uprights and over the crossbars of the defense's goalposts. 
 
