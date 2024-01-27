@@ -113,7 +113,7 @@
 
 干栏式民居除了透气凉爽外，也有避免瘴气，潮湿，淹水，并防止虫蛇进入和抗震的功能，另外，在架设上也较为简易。
 
-![亚齐人的传统住屋](/assets/2560px-Rumoh_Acèh_di_Piyeung_Datu.jpg)
+![亚齐人的传统住屋](/assets/Indonesia_Aceh.jpg)
 
 ![哥伦比亚圣玛尔塔大沼泽湖](/assets/Puente_en_zona_de_palafitos_en_Nueva_Venecia-Sitionuevo-Magdalena-Colombia.jpg)
 
