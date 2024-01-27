@@ -2,7 +2,7 @@
 # 反驳金字塔
 ![反驳金字塔](/assets/Graham's_Hierarchy_of_Disagreement.svg.png)
 
-![反驳金字塔](Graham's_Hierarchy_of_Disagreement-zh-hans.svg.png)
+![反驳金字塔](/assets/Graham's_Hierarchy_of_Disagreement-zh-hans.svg.png)
 
 # “那…又怎么说”论
 又称“那你们还…”论，是应对指控时，不回答或讨论关键问题或论点，反指控对方或提出其他关键问题，以反驳指控的一种技巧或行为。这种技巧被认为是你也一样谬误的变体和诉诸人身(Ad hominem)的子类型。
