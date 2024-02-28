@@ -227,3 +227,5 @@ SMR的做法是像我[之前文章里写到的仰合瓦屋顶](http://wiki.v2bea
 ![SMR頻帶結構](/assets/figure-1-smr-conventional-writes-tracks-550x172.jpg)
 
 由于修改数据的开销太高，SMR比较适合数据归档之类长期不变的用途。
+
+![HDD Startup and Shutdown.gif](/assets/HDD_Startup_and_Shutdown.gif)
