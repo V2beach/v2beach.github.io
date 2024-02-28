@@ -26,11 +26,11 @@ rm -rf ~/code/wiki/_book/*
 cp -r ~/code/wiki/master/_book ~/code/wiki/
 rm -rf ~/code/wiki/master/_book
 git add .
-git commit -m "From My 100+ Safari Tab Groups"
+git commit -m "some new knowledge"
 git push -u origin master
 cd ~/code/wiki/_book
 git add .
-git commit -m "From My 100+ Safari Tab Groups"
+git commit -m "some new knowledge"
 git push -u origin gh-pages
 
 if "fatal: not a git repository (or any of the parent directories): .git"
