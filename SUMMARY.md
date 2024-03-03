@@ -36,6 +36,8 @@
     * [铁，不锈钢，合金钢](/Tech/StainlessSteel.md)
     * [锁、配钥匙、撬锁](/Tech/lockey.md)
     * [家庭电路](/Tech/electricity.md)
+    * [历法，阴阳历、公农历](/Tech/CalendarSystem.md)
+    * [计时](/Tech/TimeMeasuring.md)
 * [Hybrid](Hybrid/README.md)
     * [Customary Units of Length](Hybrid/CustomaryUnitsofLength.md)
     * [British Isles](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)
@@ -94,3 +96,4 @@
 * [Log](Log/README.md)
     * [2024-1-21, 2-27](Log/2024-1-21.md)
     * [2024-2-29](Log/2024-2-29.md)
+    * [2023和2024年看的电影和书](Log/movies and books.md)
