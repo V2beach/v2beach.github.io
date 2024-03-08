@@ -39,6 +39,7 @@
     * [历法，阴阳历、公农历](/Tech/CalendarSystem.md)
     * [计时](/Tech/TimeMeasuring.md)
     * [markdown换行语法](/Tech/break.md)
+    * [金价](/Tech/goldPrice.md)
 * [Hybrid](Hybrid/README.md)
     * [Customary Units of Length](Hybrid/CustomaryUnitsofLength.md)
     * [British Isles](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)
