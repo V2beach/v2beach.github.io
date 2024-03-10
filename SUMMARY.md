@@ -81,6 +81,8 @@
     * [海洋上活动的机构部门](/Hybrid/oceanAgency.md)
     * [掉书袋](/Hybrid/showoff.md)
     * [厚黑](/Hybrid/houhei.md)
+    * [啤酒比赛获奖啤酒](/Hybrid/EuropeanBeerStar.md)
+    * [桌游](/Hybrid/boardgame.md)
 * [Algorithm](Algorithm/README.md)
     * [Binary Search](Algorithm/BinarySearch.md)
     * [Pack](Algorithm/Pack.md)
@@ -102,3 +104,4 @@
     * [2024-2-29七个常见词根](Log/2024-2-29.md)
     * [2023和2024年看的电影和书](Log/movies and books.md)
     * [2024-3-7](Log/2024-3-7.md)
+    * [2024-3-10](Log/2024-3-10.md)
