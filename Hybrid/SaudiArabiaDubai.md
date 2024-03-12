@@ -11,3 +11,5 @@ Burj Khalifa, 2010年建成前世界第一是台北101。
 ![棕榈群岛](/assets/1920px-Dubai_new_developments.png)
 
 加上在建的直线城市[the Line](https://www.neom.com/en-us/regions/theline)，沙特在建筑这方面真能整活啊。
+
+![Maraya](/assets/Maraya.jpg)
