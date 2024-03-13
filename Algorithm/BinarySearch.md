@@ -93,7 +93,7 @@ left = 0, right = 8, 双闭区间的意思就是，第一次搜索index[0, 8], �
 1648这种就需要想猜的目标是什么，我知道了能用二分都一下想不到猜哪个值。猜各种颜色的球最多卖的次数？看了一下，群主跟我想的差不多，就是猜最后一次卖出的价值v，要让这个v最大，卖的数量<orders也最大，v最大时总值就最大。就猜v，最后手动补足数量=orders。（因为v如果再-1就一定>orders了，所以肯定能补齐）
 
 ## 解题思路
-1. 跟以前解函数题一样，列出两个未知数，设一个（二分搜索），直到让另一个满足不等式。
+1. 跟以前解函数题一样，列出两个未知数，设一个（二分搜索），直到让另一个满足不等式，所设未知数有时直球是所需量，也有很多时候要猜出来；
 
 2. 先写检查mid是否满足的函数，能写出来那这样二分就可行；
 
@@ -116,7 +116,7 @@ while (left < right)
 }
 return left;  // 双闭区间，最终收敛解一定就是最优解
 ```
-4. 适用范围不只是有序序列
+4. 适用范围不只是有序序列，比如kth element的很多题只是部分有序，另外较简单的比如[287 You must solve the problem without modifying the array nums and uses only constant extra space.](https://leetcode.com/problems/find-the-duplicate-number)。
 
 5. 题型
-378的做法非常有启发性，不光是针对kth题型。至少把这个两种思路写下来
+[378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)的做法非常有启发性，不光是针对kth题型。
