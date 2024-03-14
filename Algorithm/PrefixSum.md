@@ -1,0 +1,1 @@
+在群主的分类里前缀和只有跟Hash Table结合。[525 Contiguous Array](https://leetcode.com/problems/contiguous-array)我写的前两种超时的写法是只用了前缀和的。
