@@ -8,3 +8,5 @@ c++里就是用map和set，不是自己写。
 不要觉得写代码就不用公式，最需要公式（142公式推导很巧妙、精彩、经典）！比如图形学里最基本算个两点距离就是公式  
 矩阵遍历方法https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix  
 等差等比级数公式  
+
+930 sliding window + hashtable prefixsum
