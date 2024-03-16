@@ -9,4 +9,4 @@ c++里就是用map和set，不是自己写。
 矩阵遍历方法https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/378.Kth-Smallest-Element-in-a-Sorted-Matrix  
 等差等比级数公式  
 
-930 sliding window + hashtable prefixsum
+930 sliding window + hashtable prefixsum，这题让我脑子很乱，证明这两类题还没刷够。

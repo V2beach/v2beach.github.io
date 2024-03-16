@@ -120,3 +120,5 @@ return left;  // 双闭区间，最终收敛解一定就是最优解
 
 5. 题型
 [378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)的做法非常有启发性，不光是针对kth题型。
+
+Binary Lifting还没刷，屡败屡战。
