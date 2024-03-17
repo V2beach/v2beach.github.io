@@ -27,6 +27,8 @@
 - [x] JFK刺杀肯尼迪1991
 - [ ] 大秦帝国
 - [ ] 超级大国民，湾湾出品，楊孟軒推荐
+## games
+- [x] 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
