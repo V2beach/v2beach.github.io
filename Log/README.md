@@ -15,3 +15,5 @@ reference
 ![chip log](/assets/chipslog.png)
 
 chip log每47 feet 3 inches (14.4018 m)打一个结，扇形木头(log, 四分之一圆)丢进水里，用沙漏sand glass计时，每28s记一次节数，连同其他数据（如t[raverse board,](https://academic-accelerator.com/encyclopedia/zh/traverse-board) records the speeds and directions sailed during a [watch(naval).(In the age of sailing, watches were timed with a 30-minute hourglass.)](https://en.wikipedia.org/wiki/Ship%27s_bell)）记入logbook。
+
+每日背单词的log跟language有overlap。
