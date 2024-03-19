@@ -42,6 +42,7 @@
     * [金价](/Tech/goldPrice.md)
     * [V8引擎，投石机，诸葛连弩](/Tech/V8EngineBallistaRepeatingCrossbow.md)
     * [Saas, Paas, Iaas](/Tech/SPIaas.md)
+    * [缝纫](/Tech/sew.md)
 * [Hybrid](Hybrid/README.md)
     * [Customary Units of Length](Hybrid/CustomaryUnitsofLength.md)
     * [British Isles](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)
@@ -119,3 +120,4 @@
     * [2024-3-17](Log/2024-3-17.md)
     * [2024-3-18](Log/2024-3-18.md)
     * [ns上玩的游戏](Log/NintendoSwitchGames.md)
+    * [2024-3-19](Log/2024-3-19.md)
