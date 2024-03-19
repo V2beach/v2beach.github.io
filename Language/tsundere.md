@@ -1,7 +1,7 @@
 冷笑话：  
 ![bonely](/assets/IMG_5362.JPG)  
 ![joke](/assets/IMG_5363.JPG)
-<video controls src="2024031911402400-A29C3926C7AC223A657F1415D1C1D797.mp4" width="88%" height="88%"></video>
+<video controls src="/assets/2024031911402400-A29C3926C7AC223A657F1415D1C1D797.mp4" width="88%" height="88%"></video>
 
 encyclopedia, subterranean刚学完  
 ![](/assets/IMG_5364.JPG)
@@ -188,7 +188,7 @@ stomp踩stomp on踩踏，这个好词
 stingy  
 ![](/assets/IMG_5409.JPG)
 
-synchronize跟之前的同时  
+synchronize跟之前的同时，刚背的simultaneous和https://wiki.v2beach.cn/Log/2024-3-18.html   
 ![](/assets/IMG_5410.JPG)
 
 dastardly, paramour, perish  
