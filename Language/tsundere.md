@@ -1,11 +1,11 @@
 第一个冷笑话：  
-![bonely](/assets//assets/IMG_5362.JPG)  
-![joke](/assets//assets/IMG_5363.JPG)
+![bonely](/assets/IMG_5362.JPG)  
+![joke](/assets/IMG_5363.JPG)
 
 encyclopedia, subterranean刚学完  
 ![](/assets/IMG_5364.JPG)
 
-傲娇tsundere蹭得累, cactus  
+傲娇tsundere蹭得累，一个中英日三文同音的神奇网络词汇, cactus  cact-仙人掌🌵词根
 ![傲娇仙人掌](/assets/IMG_5365.JPG)
 
 ketchup鲑汁（原来番茄酱的英文是来自中国方言，有点像Macau）
