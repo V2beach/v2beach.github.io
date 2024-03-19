@@ -16,12 +16,15 @@ affix = prefix + suffix
 
 papyrus, big bro of skeleton sans，饥荒里的纸莎草(纸)papyr-是草纸的词根，paper就是这个词根
 
-
 西洋棋：sore loser输不起
 
 horoscope占星图？telescope是望远镜microscope是显微镜
 
-speghetti
+speghetti这次真记住意大利面了，**Knowing the mouse might one day find a way to heat up the spaghetti...Fills you with determination.**
+>还有几个mouse的都很好，  
+>1. Knowing the mouse might one day leave its hole and get the cheese...Fills you with determination.
+>2. Knowing the mouse might one day extract the cheese from the mystical crystal...Fills you with determination.
+>3. Knowing the mouse might one day hack the computerized safe and get the cheese...Fills you with determination.
 
 entice
 ![引诱](/assets/Screenshot 2024-03-18 at 18.15.32.png)
@@ -37,7 +40,8 @@ prestigious，prestige在3-13和3-18都讨论过
 quiche来自cake的法语形式，乳蛋饼
 ![](/assets/IMG_5371.JPG)
 
-meddle
+meddle  
+![](/assets/IMG_5423.JPG)
 
 culinary（词源同cook，klin）  
 ![](/assets/IMG_5372.JPG)
@@ -124,7 +128,8 @@ A WISH FROM ECHO FLOWER
 decimate杀了十分之一  
 ![](/assets/IMG_5392.JPG)
 
-数字的前缀  
+数字的前缀——  
+![numeral prefix](/assets/e477c055c32fd54c1c64c1836bd97533.png)
 
 evaporate = e-出 + vapor-(steam蒸汽) = 蒸发  
 ![](/assets/IMG_5393.JPG)
@@ -164,8 +169,10 @@ clench the fist攥紧拳头
 patal, recline  
 ![](/assets/IMG_5404.JPG)
 
-monologue  
+monologue = mono-1 + log-说 = 独白  
 ![](/assets/IMG_5405.JPG)
+
+![numeral prefix](/assets/e477c055c32fd54c1c64c1836bd97533.png)
 
 foil  
 ![](/assets/IMG_5406.JPG)  
