@@ -1,6 +1,7 @@
-第一个冷笑话：  
+冷笑话：  
 ![bonely](/assets/IMG_5362.JPG)  
 ![joke](/assets/IMG_5363.JPG)
+<video controls src="2024031911402400-A29C3926C7AC223A657F1415D1C1D797.mp4" width="88%" height="88%"></video>
 
 encyclopedia, subterranean刚学完  
 ![](/assets/IMG_5364.JPG)
@@ -209,7 +210,7 @@ enlist, torment
 get past(go past?)，每次打boss都是这么惊险  
 ![](/assets/IMG_5418.JPG)
 
-acronym, anonym, synanym  
+acronym, anonym(ous), synonym  
 ![](/assets/IMG_5419.JPG)  
 ![](/assets/IMG_5420.JPG)  
 ![](/assets/IMG_5421.JPG)  
