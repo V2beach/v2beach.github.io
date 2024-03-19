@@ -167,7 +167,7 @@ polish原来除了波兰人还有擦亮的意思，polish the face
 clench the fist攥紧拳头  
 ![](/assets/IMG_5403.JPG)
 
-patal, recline  
+patal, recline，3-19打通了这天正好学clin-这个词根  
 ![](/assets/IMG_5404.JPG)
 
 monologue = mono-1 + log-说 = 独白  
@@ -200,7 +200,7 @@ incinerate
 resonate with sb引起sb的共鸣  
 ![](/assets/IMG_5414.JPG)
 
-integrity之前讨论过了，跟integer  
+integrity之前讨论过了，跟integer，也是3-19刚通就学到了这个integr完整的词根  
 ![](/assets/IMG_5415.JPG)  
 ![](/assets/IMG_5416.JPG)
 
