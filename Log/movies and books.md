@@ -29,6 +29,7 @@
 - [x] 超级大国民，湾湾出品，楊孟軒推荐，关于白色恐怖被迫害的人，整部影片没几句台词，想到了The Shawshank Redemption那个自杀的老人
 ## games
 - [x] 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
+- [x] Undertale, worst gameplay(STG/shoot 'em up/shmup), **best storytelling ever.**
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
