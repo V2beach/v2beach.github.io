@@ -6,7 +6,7 @@ https://loldle.net
 
 ![handle](/assets/Screen Shot 2023-11-22 at 16.33.56.png)
 
-除了handle我又发现了lewdle，这些都源自英文字谜游戏[wordle]。
+除了handle我又发现了lewdle，这些都源自英文字谜游戏[wordle](https://www.nytimes.com/games/wordle/index.html)。
 
 >lewd /ljuːd/, crude and offensive in a sexual way. 下流
 
