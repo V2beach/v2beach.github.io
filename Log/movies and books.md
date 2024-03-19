@@ -26,7 +26,7 @@
 - [x] The Wicker Man 1973 柳条人/异教徒，不错的邪教/惊悚片
 - [x] JFK刺杀肯尼迪1991
 - [ ] 大秦帝国
-- [ ] 超级大国民，湾湾出品，楊孟軒推荐
+- [x] 超级大国民，湾湾出品，楊孟軒推荐，关于白色恐怖被迫害的人，整部影片没几句台词，想到了The Shawshank Redemption那个自杀的老人
 ## games
 - [x] 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
 
