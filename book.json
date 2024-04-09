@@ -6,7 +6,8 @@
         "anchor-navigation-ex",
         "-simple-page-toc",
         "expandable-chapters-small",
-        "image-captions"
+        "image-captions",
+        "-todo"
     ], 
     "pluginsConfig": {
         "hide-element": {
