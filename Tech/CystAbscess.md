@@ -28,18 +28,18 @@ tissue这个词来自法语词tissu(动词tisser的过去式，意思是to weave
     - 主要由收缩性强的肌细胞构成。如：横纹肌（striated muscle）、心肌（cardiae muscle）、斜纹肌（obliquely striated muscle）或螺旋纹肌（spirally striated muscle）、平滑肌（smooth muscle）。
 4. 神经组织（nervous tissue）
     - 一种分化最高级的组织，动物越高等，神经组织越发达。由神经细胞或称神经元（neuron）和神经胶质细胞（neuroglia cell）组成。
-![tissues](906e64c55917ff8dbe38737c80e005ca930790f1.png)
+![tissues](/assets/906e64c55917ff8dbe38737c80e005ca930790f1.png)
 
 # 皮肤
-![skin layers](Skin_layers.svg.png)  
-![用来对比术语，中文这个很粗糙](HumanSkinDiagram_zh.jpg)
+![skin layers](/assets/Skin_layers.svg.png)  
+![用来对比术语，中文这个很粗糙](/assets/HumanSkinDiagram_zh.jpg)
 
 # 致病菌
 病原细菌(Pathogenic Bacteria)是指能导致传染病的细菌病原体。大部分的细菌是无害甚至有益的，这大概取决于细菌在宿主里的寄生方式是否有益于宿主。
 
 ## 致病机制
 损伤宿主细胞。
-![细菌寄生位置](Screenshot 2024-04-13 at 22.43.27.png)
+![细菌寄生位置](/assets/Screenshot 2024-04-13 at 22.43.27.png)
 ### 直接损害
 1. 细菌的代谢过程需要含铁的酶催化，细菌会分泌比宿主细胞跟铁结合力更强的蛋白质，抢夺宿主的铁；
 2. 病原菌入侵细胞，使用细胞内养分，代谢产物排放在细胞内，以此破坏细胞，比如分泌酵素，或在细胞内繁殖；
@@ -64,7 +64,7 @@ tissue这个词来自法语词tissu(动词tisser的过去式，意思是to weave
 - 囊肿可以在身体的任何部位形成，例如皮肤、内脏器官、关节等。
 - 囊肿的壁可以由不同类型的组织构成，如上皮组织、结缔组织等，而且通常不具有感染的特征。
 
-![支气管囊肿](Bronchogenic_cyst_high_mag.jpg)
+![支气管囊肿](/assets/Bronchogenic_cyst_high_mag.jpg)
 
 ## 囊肿Cyst、脓肿Abscess区别
 
@@ -88,7 +88,7 @@ tissue这个词来自法语词tissu(动词tisser的过去式，意思是to weave
 
 而囊肿和结节的区别见chatgpt解释。
 
-![囊肿和结节](Screenshot 2024-04-14 at 00.33.27.png)
+![囊肿和结节](/assets/Screenshot 2024-04-14 at 00.33.27.png)
 
 ## 囊肿Cyst、痔疮Hemorrhoids区别
 不是一回事，痔疮是屁眼的静脉曲张和静脉血管壁膨胀。
@@ -115,7 +115,7 @@ A sebaceous cyst(皮脂腺囊肿) is a term commonly used to refer to either:
 表皮样囊肿是一种通常在皮肤上发现的良性囊肿。
 >表皮样囊肿主要源于表皮上的外胚层组织。在组织学的角度上，它是鳞状上皮细胞所组成的。
 
-![overview https://www.sciencedirect.com/science/article/pii/S2352047719300401](1-s2.0-S2352047719300401-gr14.jpg)
+![overview https://www.sciencedirect.com/science/article/pii/S2352047719300401](/assets/1-s2.0-S2352047719300401-gr14.jpg)
 
 ### 疖痈，表皮样囊肿与毛囊囊肿区别
 - 与毛囊囊肿相比之下，表皮样囊肿通常在于人体以相对较少的毛发的部位生长。
@@ -166,26 +166,26 @@ A sebaceous cyst(皮脂腺囊肿) is a term commonly used to refer to either:
 # 就诊经历
 因此最开始我去校医院就诊，那医生说我是皮脂腺囊肿后就给我开内服和外用抗生素其实是误诊，上述推荐疗法都不包括抗生素，后来的感染可能就是频繁抹抗生素导致。
 
-![就诊前一天，囊肿](IMG_5476.jpeg)
+<img src="/assets/IMG_5476.jpeg" alt="就诊前一天，囊肿" width="50%" height="50%">
 
-![就诊，开抗生素](IMG_6357.jpeg)
+![就诊，开抗生素](/assets/IMG_6357.jpeg)
 
-<img src="IMG_5571.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="IMG_5636.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="IMG_5620.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="IMG_5622.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="IMG_5626.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
+<img src="/assets/IMG_5571.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
+<img src="/assets/IMG_5636.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
+<img src="/assets/IMG_5620.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
+<img src="/assets/IMG_5622.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
+<img src="/assets/IMG_5626.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
 
-![破了](IMG_5643.jpeg)
+![破了](/assets/IMG_5643.jpeg)
 
 ## 杂乱手术和换药经历
-![手术](IMG_5645.jpeg)
+![手术](/assets/IMG_5645.jpeg)
 
 男医生安慰我，说打麻药会疼一点，切的时候塞药的时候跟我说疼的话就告诉他，自尊心来劲了，他问我疼不疼，我就不说疼。
 
 女医生的气场很轻松，说她看过最大的是在背上巨大；说我这个还好一点，在屁股上，这块儿比较木；说以后每天换药才是最疼的，不准放水，明天下午去找她换药。
 
-<img src="¥149.18.png" alt="没医保" width="49%" height="49%">
+<img src="/assets/¥149.18.png" alt="没医保" width="49%" height="49%">
 
 出门看表是晚上十一点半。  
 手术才不到一刻钟，  
@@ -216,11 +216,11 @@ A sebaceous cyst(皮脂腺囊肿) is a term commonly used to refer to either:
 
 医保退费手续——找到原先医保报销失败的就诊收据，找到之前的医生给我签字，到前台删掉上次就诊记录，重新挂号办新的就诊顶上之前的，退费。
 
-![换药](IMG_6163.jpeg)
+![换药](/assets/IMG_6163.jpeg)
 
-![刀口愈合](IMG_5671.jpeg)  
-![刀口愈合](IMG_5696.jpeg)  
-![刀口愈合](IMG_5806.jpeg)  
-![刀口愈合](IMG_6257.jpeg)
+![刀口愈合](/assets/IMG_5671.jpeg)  
+![刀口愈合](/assets/IMG_5696.jpeg)  
+![刀口愈合](/assets/IMG_5806.jpeg)  
+![刀口愈合](/assets/IMG_6257.jpeg)
 
 总结：小病不用治，大病治不了。
