@@ -164,17 +164,19 @@ A sebaceous cyst(皮脂腺囊肿) is a term commonly used to refer to either:
 人类所认识的第一种抗生素——青霉素，是由微生物学家亚历山大·弗莱明（Alexander Fleming）于1928年偶然发现的。他从被霉菌污染的葡萄球菌培养皿中，观察到霉菌附近的细菌都无法生长，推测霉菌中可能有杀菌的物质。
 
 # 就诊经历
+![WARNING](/assets/b8a31e1f-e7eb-4e68-86f8-db7b6969c5fd.png)
+
 因此最开始我去校医院就诊，那医生说我是皮脂腺囊肿后就给我开内服和外用抗生素其实是误诊，上述推荐疗法都不包括抗生素，后来的感染可能就是频繁抹抗生素导致。
 
 <img src="/assets/IMG_5476.jpeg" alt="就诊前一天，囊肿" width="50%" height="50%">
 
 ![就诊，开抗生素](/assets/IMG_6357.jpeg)
 
-<img src="/assets/IMG_5571.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
-<img src="/assets/IMG_5636.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
-<img src="/assets/IMG_5620.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
-<img src="/assets/IMG_5622.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
-<img src="/assets/IMG_5626.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
+<img src="/assets/IMG_5571.jpeg" alt="感染，炎症，脓肿" width="19%" height="19%">
+<img src="/assets/IMG_5636.jpeg" alt="感染，炎症，脓肿" width="19%" height="19%">
+<img src="/assets/IMG_5620.jpeg" alt="感染，炎症，脓肿" width="19%" height="19%">
+<img src="/assets/IMG_5622.jpeg" alt="感染，炎症，脓肿" width="19%" height="19%">
+<img src="/assets/IMG_5626.jpeg" alt="感染，炎症，脓肿" width="19%" height="19%">
 
 ![破了](/assets/IMG_5643.jpeg)
 
