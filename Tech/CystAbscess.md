@@ -170,11 +170,11 @@ A sebaceous cyst(皮脂腺囊肿) is a term commonly used to refer to either:
 
 ![就诊，开抗生素](/assets/IMG_6357.jpeg)
 
-<img src="/assets/IMG_5571.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="/assets/IMG_5636.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="/assets/IMG_5620.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="/assets/IMG_5622.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
-<img src="/assets/IMG_5626.jpeg" alt="感染，炎症，脓肿" width="10%" height="10%">
+<img src="/assets/IMG_5571.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
+<img src="/assets/IMG_5636.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
+<img src="/assets/IMG_5620.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
+<img src="/assets/IMG_5622.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
+<img src="/assets/IMG_5626.jpeg" alt="感染，炎症，脓肿" width="18%" height="18%">
 
 ![破了](/assets/IMG_5643.jpeg)
 
