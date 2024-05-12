@@ -29,6 +29,9 @@
     - ✘ 林剑鸣（跟孙皓晖一样是西北大学的）
 - ✔️ 《中华人民共和国宪法》
 - ✘ The Plague, Albert Camus
+- ✘ 《萨满神歌与北方文化记忆》高长江
+    - 讲的都是满族和蒙古族这些游牧民族的歌
+- ✘ 《交响世界：开启交响音乐欣赏之门》李近朱
 ## movies
 - ✔️ 猛龙过江The Way of  the Dragon
     - 李小龙自编自导自演和武术指导
@@ -49,15 +52,24 @@
     - 1937同名小说，宫崎骏新电影，改编自2017年改编漫画
 - ✘ Four Lions
 - ✘ 辐射美剧，可以跟辐射4一块儿
+- ✔️ 间谍过家家代号白Spy × Family Code: White，国内首映，4.20提前十天
+    - 笑点就是一个一个误会，像春晚小品，最有意思的是阿尼亚憋屎
+    - 西国间谍Loid+职业杀手Yor+逃出实验室的实验品Anya+实验品大白熊狗Bond
+- ✔️ 九龙城寨之围城
+    - 九龙城寨这个历史题材很有意思，但战力设定太不合理
+- ✔️ 末路狂花钱
+    - 比预想的好
+    - Thelma and Louise末路狂花我去年看过
 ## games
 - ✔️ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
 - ✔️ Undertale
     - worst gameplay(STG/shoot 'em up/shmup)
     - **best storytelling ever.**
-- ✘ witch on the holy night魔法使之夜，typemoon型月
-    - 下面的去年看的Fate/Stay Night也是型月的
-    - 朋友送的，反正是视觉小说，下饭看看
-- ✘ Degrees of Separation森林冰火人
+- ✔️ witch on the holy night魔法使之夜，typemoon型月
+    - 朋友送的，视觉小说，下饭看
+    - 跟Fate/Stay Night设定大致相同，Fate里英灵殿召唤saber是第三魔法，这作里青子祖父探索第五魔法操作时间
+    - 声优和战斗演出意外地出色，剧情比fsn强点
+- ✔️ Degrees of Separation森林冰火人
     - 无聊
 - ✘ Divinity: Original Sin II
     - 原神启动，感谢女友送我的博德之门3
@@ -69,6 +81,8 @@
 - ✘ Rome: Total War
     - 想玩得十年了，上次尝试玩是半年多前（和骑砍，但骑砍和大航海时代这种贩子主线都有点玩不动）
 - ✘ Fallout辐射4
+- ✔️ Feed The Cups
+    - 做奶茶，比分手厨房好玩
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
