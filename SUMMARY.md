@@ -44,7 +44,7 @@
     * [Saas, Paas, Iaas](/Tech/SPIaas.md)
     * [缝纫](/Tech/sew.md)
     * [中国传统计量单位](/Tech/CustomaryUnits.md)
-    * [车险、医保、存款保险](/Tech/Insurance.md)
+    * [车险、医保、存款保险](/Tech/insurance.md)
     * [组织/病菌/炎症，囊肿/脓肿](/Tech/CystAbscess.md)
     * [mos管、修ccd、闪光灯电容](/Tech/ccd.md)
     * [管弦、钢琴](/Tech/orchestra.md)
