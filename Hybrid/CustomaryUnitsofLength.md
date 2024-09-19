@@ -231,4 +231,3 @@ mile (mi)</td>
 </table>
 
 ![English length units](/assets/feet-inch-yard.png)
-[test](/assets/test)
