@@ -32,6 +32,7 @@
 - ✘ 《萨满神歌与北方文化记忆》高长江
     - 讲的都是满族和蒙古族这些游牧民族的歌
 - ✘ 《交响世界：开启交响音乐欣赏之门》李近朱
+- Beginning Lua with World of Warcraft Addons
 ## movies
 - ✔️ 猛龙过江The Way of  the Dragon
     - 李小龙自编自导自演和武术指导
@@ -62,12 +63,16 @@
     - Thelma and Louise末路狂花我去年看过
 - ✔️ 空中营救
     - 劫机（911扭曲受难家属），之前也看过一遍
-- 歌手2024
-- 坠落的审判
-- 周处除三害
-- 我叫MT
-
-穿条纹睡衣的男孩 The Boy in the Striped Pajamas，啥时候看过了
+- ✔️ 歌手2024（看了一半，对象走了没会员看了）
+- ✔️ 坠落的审判
+- ✔️ 周处除三害
+- ✔️ 我叫MT（看到TBC看不下去了，前几季的音乐和剧情真是一绝）
+- ✔️ 异形：夺命舰Alien: Romulus，跟event horizon黑洞表面给我的感觉很像，还不错。
+>事件视界（英语：event horizon），亦称事件穹界，是一种时空的曲隔界线。  
+视界中任何的事件皆无法对视界外的观察者产生影响，在黑洞周围的便是事件视界。  
+在非常巨大的重力影响下，黑洞附近的逃逸速度大于光速，使得任何光线皆不可能从事件视界内部逃脱。  
+根据广义相对论，在远离视界的外部观察者眼中，任何从视界外部接近视界的物件，将需要用无限长的时间到达视界面，其影像会经历无止境逐渐增强的红移；但该物件本身却不会感到任何异常，并会在有限时间之内穿过视界。
+- ✔️ 柯南Detective Conan: The Million-dollar Pentagram，纯纯粉丝向，每年一个剧场版都是一个日本地方的旅游宣传片
 
 ## games
 - ✔️ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
@@ -93,40 +98,14 @@
 - ✔️ Feed The Cups
     - 做奶茶，比分手厨房好玩
 - ✔️ Teamfight Tactics
-- A HAT IN TIME
+- ✔️ A HAT IN TIME
     - A mafia asks for toll, the goal is to collect fuel (sandglass⏳hourglass)
     - 玩着像3D卡比
-- 剑侠情缘网络版叁
-- world of warcraft classic(wrath of the lich king)
-- wow retail(11.0)
-- zachtornics solitaire
-
-范达尔的烈焰镰刀
-feral WotLK-3.4.0版本可用，其他版本均不可用，没有补精灵火的监控
-TellMeWhen 11.0.0没有buff/debuff icon，10.1.1可用
-突然发现暴雪id后面的#随机数字也是我的生日，https://www.reddit.com/r/Blizzard/comments/az7c84/is_there_a_meaning_logic_behind_the_numbers_in/
-
-玩霸刀和猫德这种困难的职业，学习曲线真的很像，都是一开始先找个视频，不管对不对（大概率是错的不适合我的）学一套连招，一方面可以一边练一边想加深对技能的理解，另一方面可以让我勇敢迈出第一步，打本打怪打人获得正反馈。
-白皮书和catdps的截图都贴上来。
-连击点不死不消失，但每个目标都必须重新打连击点，这个设定蛮有趣，花间毒经不知道抄没抄这种机制，提升了不小难度。
-昨天调好了tell me when和键位，今天照着catdps很快就找到输出循环的感觉了，总之就是不断补自己的buff（猫叫）和对方的debuff（割裂），裂伤1min不需要太关注，其中用shred和mangle打点（rake偶尔也行），用精灵火和猫怒补能量，berserk狂暴有就用。
---2024-7-23，40天后重新开始健身（不训练、究极不健康生活23天）从90kg掉到了83kg），昨天半天今天半天拿下野德
-
-跟他们打了一把violet hold alpha，伤害惨不忍睹，确实打不过t。
-他们帮我打了一天半装备，我帮他俩打了一天半装备，pohen的情还没还，到目前为止确实清了，不带我无可厚非，而且猫德本身就不招待见，我自己一边打副本成就一边慢慢提升好了。
-
-正好40天没练，截图。
-下拉力量84掉了20kg，划船70掉了20kg，体力减半，20分钟后脱力，狂虚汗，以前喝不完的脉动水不够喝
-这个月又是不健康的典范，疯狂通宵，阳台外卖垃圾成山，半个月不出一次门，出门只是垃圾堆太满
-胃口变成小鸟胃，为省钱外卖只吃10块左右，每顿三个包子要么半碗饭熔火
-
-20240725，奥杜尔开放，从8点高强度打到凌晨两点（上午等人，下午naxx，晚上奥杜尔），除了中间健身出去俩小时，一共高强度玩了16小时，昨天打的时候没感觉，躺床上直接昏倒了，外卖在门口没吃，衣服没脱眼镜没摘。
-
-0728，停手，练人类paladin
-
-还是最低装分打第二输出～
-
-25号cd，31号从H托里姆修车成功
+- ✔️ 剑侠情缘网络版叁
+- ✔️ world of warcraft classic(wrath of the lich king)
+- ✔️ wow retail(11.0)
+- ✔️ zachtornics solitaire
+- ✔️ inmost(星露谷和屎大棒chucklefish呵呵鱼)
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
@@ -210,10 +189,12 @@ TellMeWhen 11.0.0没有buff/debuff icon，10.1.1可用
 - ✘ Gloria 1980女煞葛洛莉，惊悚、犯罪，美国，“用生活流的写实手法讲述一个极具戏剧性的故事，效果美妙，异常好看，比后来者《杀手莱昂》耐看。大概昆汀也从卡萨维茨的作品里汲取了不少创作灵感吧。”
 - ✘ pulp fiction 1994低俗小说，昆汀，非线性，多角度，环。
 - ✘ The Theory of Everything 2014 萝莉岛传奇霍金
-- ✘ LIncoln林肯传2012
+- ✘ Lincoln林肯传2012
 - ✘ The Life of Oharu 1952西鹤一代女，“日本物哀电影”？一个苦命妓女
 - ✔️ 异种族风俗娘评鉴指南，好像是兄弟22年推荐我看的，记不清了
 - ✔️ The Last of Us，前好后烂，演出不如游戏
+- ✔️ Stranger Things (怪奇物语) 用手机/平板远程VLC连nas看完了，四季全看了，后面两季有点拉，前期巨精彩，跟冰与火之歌一样高开低走。
+- ✔️ 穿条纹睡衣的男孩 The Boy in the Striped Pajamas，啥时候看过了
 ![](/assets/IMG_6338.jpg)
 
 2023年也玩了很多很多游戏，大部分认真玩的都写测评了，年终时又跟女友沉迷了自走棋音乐赛季。
