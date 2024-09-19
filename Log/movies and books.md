@@ -194,9 +194,9 @@
 - ✘ The Life of Oharu 1952西鹤一代女，“日本物哀电影”？一个苦命妓女
 - ✔ 异种族风俗娘评鉴指南，好像是兄弟22年推荐我看的，记不清了
 - ✔ The Last of Us，前好后烂，演出不如游戏
+![cc98tlou](/assets/IMG_6338.jpg)
 - ✔ Stranger Things (怪奇物语) 用手机/平板远程VLC连nas看完了，四季全看了，后面两季有点拉，前期巨精彩，跟冰与火之歌一样高开低走。
 - ✔ 穿条纹睡衣的男孩 The Boy in the Striped Pajamas，啥时候看过了
-![](/assets/IMG_6338.jpg)
 
 2023年也玩了很多很多游戏，大部分认真玩的都写测评了，年终时又跟女友沉迷了自走棋音乐赛季。
 ![光速上钻](/assets/上钻了.png)
