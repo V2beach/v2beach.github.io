@@ -49,6 +49,7 @@
     * [mos管、修ccd、闪光灯电容](/Tech/ccd.md)
     * [管弦、钢琴](/Tech/orchestra.md)
     * [虹吸](/Tech/syphon.md)
+    * [tomcat/nginx/nodejs, OSS/S3/COS](/Tech/serverTypes.md)
 * [Hybrid](Hybrid/README.md)
     * [Customary Units of Length (in english)](Hybrid/CustomaryUnitsofLength.md)
     * [British Isles](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)
