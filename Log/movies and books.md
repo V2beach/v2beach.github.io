@@ -32,7 +32,7 @@
 - ✘ 《萨满神歌与北方文化记忆》高长江
     - 讲的都是满族和蒙古族这些游牧民族的歌
 - ✘ 《交响世界：开启交响音乐欣赏之门》李近朱
-- Beginning Lua with World of Warcraft Addons
+- ✔ Beginning Lua with World of Warcraft Addons
 ## movies
 - ✔ 猛龙过江The Way of  the Dragon
     - 李小龙自编自导自演和武术指导
@@ -53,6 +53,8 @@
     - 1937同名小说，宫崎骏新电影，改编自2017年改编漫画
 - ✘ Four Lions
 - ✘ 辐射美剧，可以跟辐射4一块儿
+- ✔ 东北告别天团，一坨
+- ✔ 东北告别天团2，大便
 - ✔ 间谍过家家代号白Spy × Family Code: White，国内首映，4.20提前十天
     - 笑点就是一个一个误会，像春晚小品，最有意思的是阿尼亚憋屎
     - 西国间谍Loid+职业杀手Yor+逃出实验室的实验品Anya+实验品大白熊狗Bond
@@ -73,6 +75,9 @@
 在非常巨大的重力影响下，黑洞附近的逃逸速度大于光速，使得任何光线皆不可能从事件视界内部逃脱。  
 根据广义相对论，在远离视界的外部观察者眼中，任何从视界外部接近视界的物件，将需要用无限长的时间到达视界面，其影像会经历无止境逐渐增强的红移；但该物件本身却不会感到任何异常，并会在有限时间之内穿过视界。
 - ✔ 柯南Detective Conan: The Million-dollar Pentagram，纯纯粉丝向，每年一个剧场版都是一个日本地方的旅游宣传片
+- ✔ walkabout
+    - In Australia, when an Aborigine(澳洲土著/'æbə'rɪdʒəni/) man-child reaches sixteen, he is sent out into the land. For months he must live from it. Sleep on it. Eat of(chatgpt说这个of加上conveys a slightly more poetic or ceremonial tone) its fruit and flesh. Stay alive. Even if it means killing his fellow creatures. The Aborigines call it the WALKABOUT(徒步?). This is the story of a "WALKABOUT".
+    - https://www.asharperfocus.com/Walkabout.html 一个去世的博主，第一次见这种博客。
 
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
@@ -119,7 +124,7 @@
 - ✔ 高山下的花环
 - ✔ Pan's Labyrinth
 - ✔ Cure1997
-- ✔ The Exorcist 1973驱魔人，恐怖片，1949年发生在美国马里兰州的一桩真人真事。
+- ✔ The Exorcist 1973驱魔人，恐怖片，1949年发生在美国马里兰州的一桩真人真事。被恶魔附身
 - ✔ Requiem for a Dream 2000 梦之安魂曲 关于吸毒的癫狂电影，最好的毒品电影
 - ✔ The Others 2001小岛惊魂，狗镇的主角安妮·海瑟薇，惊悚大片。非常棒，我看过的第一部以死后人视角看世界的电影，刚开始茫然，不知道自己在哪，抗拒想起死前的悲惨回忆，所谓冤魂就能完全被理解了。
 - ✔ The Spacewalker 2017 GER天际行者，很棒的一部俄式太空电影，前铺垫松后紧。很好看，人类第一次太空漫步，不是第一次载人航天。
@@ -197,6 +202,8 @@
 ![cc98tlou](/assets/IMG_6338.jpg)
 - ✔ Stranger Things (怪奇物语) 用手机/平板远程VLC连nas看完了，四季全看了，后面两季有点拉，前期巨精彩，跟冰与火之歌一样高开低走。
 - ✔ 穿条纹睡衣的男孩 The Boy in the Striped Pajamas，啥时候看过了
+- ✔ 绝命毒师
+- ✔ better call saul，大概是去年看完的吧，已经记不清了
 
 2023年也玩了很多很多游戏，大部分认真玩的都写测评了，年终时又跟女友沉迷了自走棋音乐赛季。
 ![光速上钻](/assets/上钻了.png)
