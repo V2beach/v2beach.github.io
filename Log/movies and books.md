@@ -78,6 +78,8 @@
 - ✔ walkabout
     - In Australia, when an Aborigine(澳洲土著/'æbə'rɪdʒəni/) man-child reaches sixteen, he is sent out into the land. For months he must live from it. Sleep on it. Eat of(chatgpt说这个of加上conveys a slightly more poetic or ceremonial tone) its fruit and flesh. Stay alive. Even if it means killing his fellow creatures. The Aborigines call it the WALKABOUT(徒步?). This is the story of a "WALKABOUT".
     - https://www.asharperfocus.com/Walkabout.html 一个去世的博主，第一次见这种博客。
+- ✘ 侏罗纪公园2，纯恐龙冒险比KingKong金刚差远了
+- The Great Escape
 
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
