@@ -80,6 +80,13 @@
     - https://www.asharperfocus.com/Walkabout.html 一个去世的博主，第一次见这种博客。
 - ✘ 侏罗纪公园2，纯恐龙冒险比KingKong金刚差远了
 - The Great Escape
+- ✔ 混沌武士Samurai Champloo（多年以前刘卜语推的，想看星际牛仔记成混沌武士了）
+- ✔ 星际牛仔Cowboy Bebop（二周目）
+- 李宏毅机器学习
+- cs231n
+- colab
+- cs224n
+- cs224w
 
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
@@ -114,6 +121,8 @@
 - ✔ wow retail(11.0)
 - ✔ zachtornics solitaire
 - ✔ inmost(星露谷和屎大棒chucklefish呵呵鱼)
+- ✔ dota2(Defense of the Ancients (DotA),2013 multiplayer online battle arena (MOBA))
+- warcraft3, 1.31(no Reforged)
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
@@ -141,7 +150,6 @@
 - ✔ War Horse2011战马，斯皮尔伯格， 好看
 - ✔ The American Barbecue Showdown S02 2023美食烧烤，好看
 - ✔ Full River Red 2023满江红，张艺谋，没说的。
-- ✔ Fate/stay night TV 01-24命运之夜 Reseed，还行，总算是看过了Fate
 - ✔ Suzume no Tojimari 2022铃芽之旅，还可以，新海誠太多了。
 - ✔ Fall 2022，俩女人攀岩极限运动，故事一般
 - ✔ DragonBall 99G，放弃
@@ -202,10 +210,12 @@
 - ✔ 异种族风俗娘评鉴指南，好像是兄弟22年推荐我看的，记不清了
 - ✔ The Last of Us，前好后烂，演出不如游戏
 ![cc98tlou](/assets/IMG_6338.jpg)
-- ✔ Stranger Things (怪奇物语) 用手机/平板远程VLC连nas看完了，四季全看了，后面两季有点拉，前期巨精彩，跟冰与火之歌一样高开低走。
+- ✔ Stranger Things (怪奇物语) 用手机/平板远程VLC连nas看完了，四季全看了，后面两季有点拉，前期巨精彩，跟冰与火之歌（2022年底在商汤时熬夜看的）一样高开低走。
 - ✔ 穿条纹睡衣的男孩 The Boy in the Striped Pajamas，啥时候看过了
 - ✔ 绝命毒师
 - ✔ better call saul，大概是去年看完的吧，已经记不清了
+- ✔ 我推的孩子，跟对象异地时看的（大概是第一次异地时）
+- ✔ Fate/stay night TV 01-24命运之夜 Reseed在nas上下了个资源，还行，总算是看过了Fate
 
 2023年也玩了很多很多游戏，大部分认真玩的都写测评了，年终时又跟女友沉迷了自走棋音乐赛季。
 ![光速上钻](/assets/上钻了.png)
