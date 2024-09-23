@@ -156,4 +156,4 @@
     * [wow addon development](Log/maybe a blog.md)
     * [2024-9-17](Log/2024-9-17.md)
     * [2024-9-19](Log/2024-9-19.md)
-    * [2024-9-23小结dota2alphafold3war3](Log/2024-9-23.md)
+    * [2024-9-23dota2小结war3](Log/2024-9-23.md)
