@@ -32,7 +32,10 @@
 - ✘ 《萨满神歌与北方文化记忆》高长江
     - 讲的都是满族和蒙古族这些游牧民族的歌
 - ✘ 《交响世界：开启交响音乐欣赏之门》李近朱
-- ✔ Beginning Lua with World of Warcraft Addons
+    - 从五月超时到九月把这没看完的五本书（还有希腊/雅典、波斯）还回去一共才10块罚金
+- Beginning Lua with World of Warcraft Addons
+    - ✔ Chapter 1 3 4
+    - ✘ Chapter 5 XML and Frames
 ## movies
 - ✔ 猛龙过江The Way of  the Dragon
     - 李小龙自编自导自演和武术指导
