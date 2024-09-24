@@ -82,11 +82,13 @@
 - The Great Escape
 - ✔ 混沌武士Samurai Champloo（多年以前刘卜语推的，想看星际牛仔记成混沌武士了）
 - ✔ 星际牛仔Cowboy Bebop（二周目）
-- 李宏毅机器学习
+- ✔ colab [Working remotely on Google Colaboratory](https://cs231n.github.io/setup-instructions/#working-remotely-on-google-colaboratory), [CS231N Google Colab Assignment Workflow Tutorial](https://www.youtube.com/watch?v=DsGd2e9JNH4)
+- ✔ 李宏毅机器学习，四年前看过相当多他的课程，比看stanford的心态是轻松的
 - cs231n
-- colab
 - cs224n
 - cs224w
+- cs144
+- cs143
 
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
