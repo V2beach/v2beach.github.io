@@ -7,7 +7,8 @@
         "-simple-page-toc",
         "expandable-chapters-small",
         "image-captions",
-        "-todo"
+        "-todo",
+        "katex"
     ], 
     "pluginsConfig": {
         "hide-element": {
