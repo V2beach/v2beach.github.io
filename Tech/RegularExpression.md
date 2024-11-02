@@ -7,5 +7,5 @@
 
 | [lookaround](https://www.regular-expressions.info/lookaround.html) | lookahead |  解釋 | lookbehind | 解釋 |
 | -- | -- | -- | -- | -- |
-| negative | q(?!u) | 匹配後面沒有u的q(matches a “q” not followed by a “u”) | (?<!a)b | 匹配前面沒有a的b(matches a “b” that is not preceded by an “a”) |
+| negative | q(?!u) | 匹配後面沒有u的q (matches a “q” not followed by a “u”) | (?<!a)b | 匹配前面沒有a的b (matches a “b” that is not preceded by an “a”) |
 | positive | q(?=u) | 匹配後面有u的q | (?<=a)b | 匹配前面有a的b |

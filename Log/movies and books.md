@@ -87,6 +87,10 @@
 - ✔ 星际牛仔Cowboy Bebop（二周目）
 - ✔ colab [Working remotely on Google Colaboratory](https://cs231n.github.io/setup-instructions/#working-remotely-on-google-colaboratory), [CS231N Google Colab Assignment Workflow Tutorial](https://www.youtube.com/watch?v=DsGd2e9JNH4)
 - ✔ 李宏毅机器学习，四年前看过相当多他的课程，比看stanford的心态是轻松的
+- ✔ DreamLeague(BP的時候背景是樂隊的舒緩演奏，這太夢幻了) Season 24幾場xg(Xtreme Gaming) 10-29 XG-PARIVISION看xxs剛背單打魔方一次死一次殘浪費5分鐘犯病，xm(小毛)puck也是操作一坨(不過居然是立刻當天繼續XG打Avulus BO2, 結果被2:0用無敵大哥bristleback羞辱)，Ti2024 cndota扛把子就這水平?(結果 10-30 XG 1:1 liquid ti2024冠軍，不過版本答案med(五個人先手開不死像堵城牆打完團滿狀態)打版本廢物風行英雄壓制，而且liquid的3號位33換了個菜逼saberlight)，s14¼決賽tes被t1零封和兩場半決賽，和決賽BLG vs. T1
+- 台大電機 Prof. 葉丙成 機率與統計 2013
+    - ✔ part1
+    - part2
 - cs231n
 - cs224n
 - cs224w
