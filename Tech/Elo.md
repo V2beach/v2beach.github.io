@@ -246,7 +246,7 @@ PDF就是CDF的微分！
 
 ![](/assets/Screenshot 2024-11-02 at 15.29.17.png)
 
-![](Screenshot 2024-11-02 at 15.31.32.png) ![](/assets/Screenshot 2024-11-02 at 15.33.07.png)
+![](/assets/Screenshot 2024-11-02 at 15.31.32.png) ![](/assets/Screenshot 2024-11-02 at 15.33.07.png)
 
 ### Uniform Distribution
 ![](/assets/Screenshot 2024-11-02 at 15.41.03.png)
@@ -369,3 +369,41 @@ Valve has stated that matchmaking tries to fulfil several criteria:
 - Wait times shouldn't be too long.
 
 在北街咖啡斷網的瞬間記起小時候爸帶回家一台筆記本電腦，那時上網還通通都是有線和sim卡，而那台筆記本是插無線網卡上網。在老家屬院那間客廳的衣櫥上用插著一根錄音筆一樣的無線網卡的筆記本電腦玩賽爾號（打普尼？），那真是堪比幾年後我用小手機看網路小說到天亮，爸第二天在我確定他沒有翻我手機的情況下能精準說出我瀏覽了哪些網頁一樣的震撼體驗。這一幕幕歷歷在目。
+
+## Central Limit Theorem(中央極限定理)
+
+![convolution](/assets/Screenshot 2024-11-03 at 13.46.25.png)
+
+
+![uniform分布的獨立事件convolution完變成了gaussian](/assets/Screenshot 2024-11-03 at 15.39.14.png)
+
+![exponential分布的獨立事件convolution完變成了gaussian](/assets/Screenshot 2024-11-03 at 15.40.21.png)
+
+![laplacian分布也是一樣，可以知道continuous r.v.都是一樣](/assets/Screenshot 2024-11-03 at 15.43.13.png)
+
+![多個discrete隨機變數之和也是](/assets/Screenshot 2024-11-03 at 15.44.05.png)
+
+![不只uniform，geometric也是一樣](/assets/Screenshot 2024-11-03 at 15.44.49.png)
+
+
+![](/assets/Screenshot 2024-11-03 at 15.52.56.png)
+
+### 應用
+
+![牛逼](/assets/Screenshot 2024-11-03 at 15.55.30.png)
+
+![牛逼](/assets/Screenshot 2024-11-03 at 16.16.35.png)
+
+為什麼mean是probability，variance是probability(1- probability)，因為Bernoulli的X非1即0，所以expectation是1\*probability + 0\*(1- probability)，{%math%}Var(X)=E(X^2)-E(X)^2 = probability - probability^2{%endmath%}。
+
+## 失憶性
+
+![條件機率的概率分佈計算方式](/assets/IMG_0608.jpg)
+
+![0.8^(x-1)*0.2還是geometric distribution](/assets/Screenshot 2024-11-04 at 00.25.03.png)
+
+![機率很重要的common sense](/assets/Screenshot 2024-11-04 at 00.26.13.png)
+
+
+Formal derivation for win/loss games
+The above expressions can be now formally derived by exploiting the link between the Elo rating and the stochastic gradient update in the logistic regression.隨機梯度。。？

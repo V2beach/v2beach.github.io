@@ -153,7 +153,7 @@
     * [2024-9-5~7](Log/2024-9-5.md)
     * [2024-9-8埃及木乃伊](Log/2024-9-8.md)
     * [2024-9-9,10,13,14,15](Log/2024-9-9.md)
-    * [wow addon development](Log/maybe a blog.md)
+    * [addon/plugin development](Log/maybe a blog.md)
     * [2024-9-17](Log/2024-9-17.md)
     * [2024-9-19](Log/2024-9-19.md)
     * [2024-9-23dota2小结war3](Log/2024-9-23.md)
