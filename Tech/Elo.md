@@ -6,7 +6,110 @@ The Elo rating system is a method for calculating the relative skill levels of p
 
 西洋棋的elo rating在[這裡](https://ratings.fide.com/top_lists.phtml)，我的[dota](https://www.dotabuff.com/players/443839701/matches)和[chess](https://www.chess.com/member/dopedashenone)在這裡。
 
+Pairwise comparisons form the basis of the Elo rating methodology.
+
+https://github.com/V2beach/books/blob/main/1978-elo-theratingofchessplayerspastandpresent.pdf
+
+![pairwise comparison](/assets/Pairwise+Comparison+Matrix+Manual+Spreadsheet+Method+Calculator+Example.png)
+
 Elo's central assumption was that the chess performance of each player in each game is a normally distributed random variable. Although a player might perform significantly better or worse from one game to the next, Elo assumed that the mean value of the performances of any given player changes only slowly over time. Elo thought of a player's true skill as the mean of that player's performance random variable.
+
+A further assumption is necessary because chess performance in the above sense is still not measurable. One cannot look at a sequence of moves and derive a number to represent that player's skill. Performance can only be inferred from wins, draws, and losses. Therefore, a player who wins a game is assumed to have performed at a higher level than the opponent for that game. Conversely, a losing player is assumed to have performed at a lower level. If the game ends in a draw, the two players are assumed to have performed at nearly the same level.
+
+[實踐中存在很多問題。](https://en.wikipedia.org/wiki/Elo_rating_system#Practical_issues)
+## Mathematical details
+如果玩家A的rating是RA，玩家B的當前分數是RB，玩家A預測分數的公式（using the [logistic curve](https://en.wikipedia.org/wiki/Logistic_curve) with [base 10](https://en.wikipedia.org/wiki/Common_logarithm)）是  
+{%math%}E_{\mathrm{A}}=\frac{1}{1+10^{\left(R_{\mathrm{B}}-R_{\mathrm{A}}\right) / 400}} .{%endmath%}  
+相似地，B的預期分數是  
+{%math%}E_{\mathrm{B}}=\frac{1}{1+10^{\left(R_{\mathrm{A}}-R_{\mathrm{B}}\right) / 400}} .{%endmath%}  
+也可以表示為  
+{%math%}E_A=\frac{Q_A}{Q_A+Q_B}{%endmath%}  
+和  
+{%math%}E_B=\frac{Q_B}{Q_A+Q_B},{%endmath%}  
+其中{%math%}Q_A=10^{R_A/400}{%endmath%}{%math%}Q_B=10^{R_B/400}{%endmath%}。這個logistic函數的曲線如下，
+
+![player's expected score function graph](/assets/Screenshot 2024-11-04 at 22.57.34.png)
+
+其實就是用分差把預期分數約束到0到1之間，其中勝利是1，失敗是0。
+
+假設玩家A（當前分數{%math%}R_A{%endmath%}）的預期分數是{%math%}E_A{%endmath%}但是實際得分是{%math%}S_A{%endmath%}，玩家更新分數的公式是
+{%math%}R_{\mathrm{A}}^{\prime}=R_{\mathrm{A}}+K \cdot\left(S_{\mathrm{A}}-E_{\mathrm{A}}\right).{%endmath%}
+
+K-factor set at K=16  for masters and K=32 for weaker players.
+
+Moreover, online judge sites are also using Elo rating system or its derivatives. For example, Topcoder is using a modified version based on normal distribution, while Codeforces is using another version based on logistic distribution.
+
+Formal derivation for win/loss games  
+The above expressions can be now formally derived by exploiting the link between the Elo rating and the stochastic gradient update in the logistic regression.有的用隨機梯度更新分數
+
+## Logistic/Sigmoid
+<p>A <b>logistic function</b> or <b>logistic curve</b> is a common S-shaped curve (<a href="https://en.wikipedia.org/wiki/Sigmoid_function" title="Sigmoid function">sigmoid curve</a>) with the equation.</p>  
+
+{%math%}f(x)=\frac{L}{1+e^{-k\left(x-x_0\right)}}{%endmath%}
+
+where
+- L is the carrying capacity, the supremum of the values of the function;
+- k is the logistic growth rate, the steepness of the curve; and
+- x0 is the x value of the function's midpoint.
+The logistic function has domain the real numbers, the limit as x→−∞ is 0, and the limit as x→+∞ is L.
+
+<img src="/assets/Logistic-curve.svg.png" width="50%" height="50%" alt="Standard logistic function where L=1,k=1,x0=0.">
+
+>sup(X)是取上限函数，inf(X) 是取下限函数。 sup是supremum的简写，意思是：上确界，最小上界。 inf是infimum的简写，意思是：下确界，最大下界。
+<img src="/assets/Minimum-maximum-infimum-and-supremum-of-example-functions.ppm.png" width="50%" height="50%">
+
+A ***sigmoid function*** refers specifically to a function whose graph follows the logistic function. It is defined by the formula:
+
+{%math%}\sigma(x)=\frac{1}{1+e^{-x}}=\frac{e^x}{1+e^x}=1-\sigma(-x) .{%endmath%}
+
+<img src="https://blog.v2beach.cn/pics/cs231n/sigmoid.png" width="50%" height="50%" alt="Some sigmoid functions compared. In the drawing all functions are normalized in such a way that their slope at the origin is 1.">
+
+The logistic function was introduced in a series of three papers by Pierre François **Verhulst** between 1838 and 1847, who devised it as **a model of population growth by adjusting the exponential growth model**。
+
+Exponential Growth：
+
+<style>
+    .legend-color{
+        display: inline-block;
+        min-width: 1.25em;
+        height: 1.25em;
+        line-height: 1.25;
+        margin: 1px 0;
+        text-align: center;
+        border: 1px solid black
+    }
+</style>
+
+<img src="/assets/Exponential.svg.png" width="50%" height="50%" alt="The graph illustrates how exponential growth (green) surpasses both linear (red) and cubic (blue) growth."/>
+
+<div class="legend"><span class="legend-color mw-no-invert" style="background-color:red; color:black;">&nbsp;</span>&nbsp;Linear growth</div>
+<div class="legend"><span class="legend-color mw-no-invert" style="background-color:blue; color:white;">&nbsp;</span>&nbsp;<a href="https://en.wikipedia.org/wiki/Polynomial" title="Polynomial">Cubic growth</a></div>
+<div class="legend"><span class="legend-color mw-no-invert" style="background-color:green; color:white;">&nbsp;</span>&nbsp;Exponential growth</div>
+
+這logistic函數發明初衷是用於優化人口增長函數，在統計學和機器學習的應用只是它茫茫多應用的其中之一而已。  
+所有圖像長得像logsitic函數的都是sigmoid函數(S-shaped curve)。
+
+Logistic functions are used in several roles in statistics. For example, they are the cumulative distribution function of the logistic family of distributions, and they are, a bit simplified, used to model the chance a chess player has to beat their opponent in the Elo rating system. More specific examples now follow.
+
+## Logistic regression
+Logistic functions are used in logistic regression to model how the probability p of an event may be affected by one or more explanatory variables: an example would be to have the model
+
+{%math%}p = f(a + bx),{%endmath%}
+
+where x is the explanatory variable, a and b are model parameters to be fitted, and f is the standard logistic function.
+
+Logistic regression and other **log-linear models** are also commonly used in machine learning. A generalisation of the logistic function to multiple inputs is the softmax activation function, used in multinomial logistic regression.
+
+## Log-linear
+先複習一下，線性回歸是{%math%}y_i(x)=\beta_0+\beta_1x_i{%endmath%}，
+
+![graph](/assets/1*F8xLapWs4stL93NEO5NPeQ.webp)
+
+把數據{%math%}(x_i, y_i){%endmath%}代入之後，用最小平方法(Least Square)計算loss function目標/損失函數，
+{%math%}{Loss}\left({\beta}_0, {\beta}_1\right)=\sum_{i=1}^n\left(y_i-\hat{y}_i\right)^2=\sum_{i=1}^n\left(y_i-\left({\beta}_0+{\beta}_1 x_i\right)\right)^2{%endmath%}
+之後更新beta修正函數擬合數據。
+
+而log-linear就是把a+bx結果代入logistic或者其他sigmoid函數，好處是比如對分類任務來說，这个Sigmoid Function可以将线性的值，映射到\[0-1\]范围中。如果映射结果小于0.5，则认为是负的样本，如果是大于0.5，则认为是正的样本。
 
 # Probability theory basics機率基礎
 https://www.youtube.com/watch?v=GwSEguqJj6U&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk  
@@ -354,22 +457,6 @@ https://en.wikipedia.org/wiki/Normal_distribution
 </g>
 </svg>
 
-# dota mmr
-https://dota2.fandom.com/wiki/Matchmaking  
-https://dota2.fandom.com/wiki/Matchmaking_Rating
-
-Valve has stated that matchmaking tries to fulfil several criteria:
-- The teams are balanced. (Each team has a 50% chance to win. It's based on Elo rating.)
-- The discrepancy in skill between the most and least skilled player in the match is minimized.
-- The highest skill Radiant player should be close to the same skill as the highest skill Dire player.
-- The discrepancy between experience (measured by the number of games played) between the least experienced player and the most experienced player is minimized.
-- Each team contains about the same number of parties.
-- Five-player parties can only be matched against other five-player parties.
-- Players' language preferences contains a common language.
-- Wait times shouldn't be too long.
-
-在北街咖啡斷網的瞬間記起小時候爸帶回家一台筆記本電腦，那時上網還通通都是有線和sim卡，而那台筆記本是插無線網卡上網。在老家屬院那間客廳的衣櫥上用插著一根錄音筆一樣的無線網卡的筆記本電腦玩賽爾號（打普尼？），那真是堪比幾年後我用小手機看網路小說到天亮，爸第二天在我確定他沒有翻我手機的情況下能精準說出我瀏覽了哪些網頁一樣的震撼體驗。這一幕幕歷歷在目。
-
 ## Central Limit Theorem(中央極限定理)
 
 ![convolution](/assets/Screenshot 2024-11-03 at 13.46.25.png)
@@ -404,6 +491,21 @@ Valve has stated that matchmaking tries to fulfil several criteria:
 
 ![機率很重要的common sense](/assets/Screenshot 2024-11-04 at 00.26.13.png)
 
+# dota mmr
+https://dota2.fandom.com/wiki/Matchmaking  
+https://dota2.fandom.com/wiki/Matchmaking_Rating
 
-Formal derivation for win/loss games
-The above expressions can be now formally derived by exploiting the link between the Elo rating and the stochastic gradient update in the logistic regression.隨機梯度。。？
+Valve has stated that matchmaking tries to fulfil several criteria:
+- The teams are balanced. (Each team has a 50% chance to win. It's based on Elo rating.)
+- The discrepancy in skill between the most and least skilled player in the match is minimized.
+- The highest skill Radiant player should be close to the same skill as the highest skill Dire player.
+- The discrepancy between experience (measured by the number of games played) between the least experienced player and the most experienced player is minimized.
+- Each team contains about the same number of parties.
+- Five-player parties can only be matched against other five-player parties.
+- Players' language preferences contains a common language.
+- Wait times shouldn't be too long.
+
+## elo hell
+Elo hell (also known as MMR hell) is a video gaming term used in MOBAs and other multiplayer online games with competitive modes. It refers to portions of the matchmaking ranking spectrum where individual matches are of poor quality, and are often determined by factors **such as poor team coordination** which are perceived to be **outside the individual player's control.** This ostensibly makes it difficult for skilled players to "climb" up the matchmaking ranking (and out of Elo hell), due to the difficulty of consistently winning games under these conditions. Its existence in various games has been debated, and **some game developers have called it an illusion caused by cognitive bias.**
+
+在北街咖啡斷網的瞬間記起小時候爸帶回家一台筆記本電腦，那時上網還通通都是有線和sim卡，而那台筆記本是插無線網卡上網。在老家屬院那間客廳的衣櫥上用插著一根錄音筆一樣的無線網卡的筆記本電腦玩賽爾號（打普尼？），那真是堪比幾年後我用小手機看網路小說到天亮，爸第二天在我確定他沒有翻我手機的情況下能精準說出我瀏覽了哪些網頁一樣的震撼體驗。這一幕幕歷歷在目。
