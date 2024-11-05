@@ -111,6 +111,541 @@ Logistic regression and other **log-linear models** are also commonly used in ma
 
 而log-linear就是把a+bx結果代入logistic或者其他sigmoid函數，好處是比如對分類任務來說，这个Sigmoid Function可以将线性的值，映射到\[0-1\]范围中。如果映射结果小于0.5，则认为是负的样本，如果是大于0.5，则认为是正的样本。
 
+## 採用logistic分布和gaussian/normal分布的區別？
+A workable rating system, fully developed from basic theory, includes certain principal components:
+1. Rating scale
+2. Performance distribution function
+3. Percentage expectancy function
+4. Performance rating formula
+5. Continuous rating formula
+6. Appropriate numerical coefficients and ancillary formulae
+—— 8.12 [The Rating of Chessplayers, Past & Present, Second Edition, Arpad E. Elo](https://gwern.net/doc/statistics/order/comparison/1978-elo-theratingofchessplayerspastandpresent.pdf)
+
+區別就是預期分數（player's expected score）的計算公式，上面用的logistic function(base10)其實就是logistic distribution的CDF，可以發現如下圖所示跟normal distribution的CDF很像。
+
+- In probability theory and statistics, the logistic distribution is a continuous probability distribution.
+- **Its cumulative distribution function is the logistic function, which appears in logistic regression and feedforward neural networks.**
+- It resembles the normal distribution in shape but has heavier tails (higher kurtosis).
+
+logistic distribution其實就是尾部更長的normal distribution了。
+
+<table class="infobox infobox-table ib-prob-dist"><tbody><tr><td colspan="4">Logistic distribution</td><td colspan="4">Normal distribution</td></tr><tr><td colspan="4" class="infobox-image">
+<div class="ib-prob-dist-image">Probability density function</div><span typeof="mw:File"><a href="/wiki/File:Logisticpdfunction.svg" class="mw-file-description" title="Standard logistic PDF"><img alt="Standard logistic PDF" src="/assets/Logisticpdfunction.svg.png" decoding="async" width="320" height="256" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logisticpdfunction.svg/480px-Logisticpdfunction.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Logisticpdfunction.svg/640px-Logisticpdfunction.svg.png 2x" data-file-width="450" data-file-height="360"></a></span></td><td colspan="4" class="infobox-image"><div class="ib-prob-dist-image">Probability density function</div><span class="skin-invert-image" typeof="mw:File"><a href="/wiki/File:Normal_Distribution_PDF.svg" class="mw-file-description"><img src="/assets/Normal_Distribution_PDF.svg.png" decoding="async" width="400" height="256" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/600px-Normal_Distribution_PDF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Normal_Distribution_PDF.svg/800px-Normal_Distribution_PDF.svg.png 2x" data-file-width="720" data-file-height="460"></a></span><div class="infobox-caption">The red curve is the <i>standard normal distribution</i>.</div></td></tr><tr><td colspan="4" class="infobox-image">
+<div class="ib-prob-dist-image">Cumulative distribution function</div><span typeof="mw:File"><a href="/wiki/File:Logistic_cdf.svg" class="mw-file-description" title="Standard logistic CDF"><img alt="Standard logistic CDF" src="/assets/Logistic_cdf.svg.png" decoding="async" width="320" height="256" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logistic_cdf.svg/480px-Logistic_cdf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logistic_cdf.svg/640px-Logistic_cdf.svg.png 2x" data-file-width="450" data-file-height="360"></a></span></td><td colspan="4" class="infobox-image">
+<div class="ib-prob-dist-image">Cumulative distribution function</div><span class="skin-invert-image" typeof="mw:File"><a href="/wiki/File:Normal_Distribution_CDF.svg" class="mw-file-description"><img src="/assets/Normal_Distribution_CDF.svg.png" decoding="async" width="400" height="256" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Normal_Distribution_CDF.svg/600px-Normal_Distribution_CDF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Normal_Distribution_CDF.svg/800px-Normal_Distribution_CDF.svg.png 2x" data-file-width="720" data-file-height="460"></a></span></td></tr><tr><th scope="row" class="infobox-label">Notation</th><td colspan="3">LogisticDistribution(μ,s)</td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\mathcal {N}}(\mu ,\sigma ^{2})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi class="MJX-tex-caligraphic" mathvariant="script">N</mi>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>μ<!-- μ --></mi>
+        <mo>,</mo>
+        <msup>
+          <mi>σ<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mathcal {N}}(\mu ,\sigma ^{2})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/863304aaa42a945f2f07d79facc3d2eebc845ce7" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; margin-left: -0.062ex; width:8.966ex; height:3.176ex;" alt="{\displaystyle {\mathcal {N}}(\mu ,\sigma ^{2})}"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Statistical_parameter" title="Statistical parameter">Parameters</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu ,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu ,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e7e1ef161a49a22b500d63307460ad92eeb6a16" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:2.049ex; height:2.176ex;" alt="{\displaystyle \mu ,}"></span> <a href="/wiki/Location_parameter" title="Location parameter">location</a> (<a href="/wiki/Real_number" title="Real number">real</a>)<br><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle s>0,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>s</mi>
+        <mo>&gt;</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle s&gt;0,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c383e7faf9b1add044f091319507fccc0f8a310f" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:5.998ex; height:2.509ex;" alt="{\displaystyle s>0,}"></span> <a href="/wiki/Scale_parameter" title="Scale parameter">scale</a> (real)</td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu \in \mathbb {R} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+        <mo>∈<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu \in \mathbb {R} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9a48f0e84328dc53dec2ad301bb321c00dcf422" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:5.92ex; height:2.676ex;" alt="{\displaystyle \mu \in \mathbb {R} }"></span> = <a href="/wiki/Mean" title="Mean">mean</a> (<a href="/wiki/Location_parameter" title="Location parameter">location</a>)<br><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \sigma ^{2}\in \mathbb {R} _{>0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>σ<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>∈<!-- ∈ --></mo>
+        <msub>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="double-struck">R</mi>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&gt;</mo>
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma ^{2}\in \mathbb {R} _{&gt;0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5b81059aaa2db87802908711c7527c0e1d65fc06" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:9.236ex; height:3.009ex;" alt="{\displaystyle \sigma ^{2}\in \mathbb {R} _{>0}}"></span> = <a href="/wiki/Variance" title="Variance">variance</a> (squared <a href="/wiki/Scale_parameter" title="Scale parameter">scale</a>)</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Support_(mathematics)" title="Support (mathematics)">Support</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\in (-\infty ,\infty )}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>∈<!-- ∈ --></mo>
+        <mo stretchy="false">(</mo>
+        <mo>−<!-- − --></mo>
+        <mi mathvariant="normal">∞<!-- ∞ --></mi>
+        <mo>,</mo>
+        <mi mathvariant="normal">∞<!-- ∞ --></mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\in (-\infty ,\infty )}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d7aea9be5e96822459afc5c7d9f911a586290dc5" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:13.469ex; height:2.843ex;" alt="{\displaystyle x\in (-\infty ,\infty )}"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle x\in \mathbb {R} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>∈<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">R</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\in \mathbb {R} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9c6d458566aec47a7259762034790c8981aefab" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:5.848ex; height:2.176ex;" alt="{\displaystyle x\in \mathbb {R} }"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Probability_density_function" title="Probability density function">PDF</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {e^{-(x-\mu )/s}}{s\left(1+e^{-(x-\mu )/s}\right)^{2}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msup>
+              <mi>e</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>−<!-- − --></mo>
+                <mo stretchy="false">(</mo>
+                <mi>x</mi>
+                <mo>−<!-- − --></mo>
+                <mi>μ<!-- μ --></mi>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo>/</mo>
+                </mrow>
+                <mi>s</mi>
+              </mrow>
+            </msup>
+            <mrow>
+              <mi>s</mi>
+              <msup>
+                <mrow>
+                  <mo>(</mo>
+                  <mrow>
+                    <mn>1</mn>
+                    <mo>+</mo>
+                    <msup>
+                      <mi>e</mi>
+                      <mrow class="MJX-TeXAtom-ORD">
+                        <mo>−<!-- − --></mo>
+                        <mo stretchy="false">(</mo>
+                        <mi>x</mi>
+                        <mo>−<!-- − --></mo>
+                        <mi>μ<!-- μ --></mi>
+                        <mo stretchy="false">)</mo>
+                        <mrow class="MJX-TeXAtom-ORD">
+                          <mo>/</mo>
+                        </mrow>
+                        <mi>s</mi>
+                      </mrow>
+                    </msup>
+                  </mrow>
+                  <mo>)</mo>
+                </mrow>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {e^{-(x-\mu )/s}}{s\left(1+e^{-(x-\mu )/s}\right)^{2}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d42088b22c0c7577eb7a68d827061870368d054" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -3.505ex; width:17.79ex; height:7.343ex;" alt="{\displaystyle {\frac {e^{-(x-\mu )/s}}{s\left(1+e^{-(x-\mu )/s}\right)^{2}}}}"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {1}{\sqrt {2\pi \sigma ^{2}}}}e^{-{\frac {(x-\mu )^{2}}{2\sigma ^{2}}}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msqrt>
+              <mn>2</mn>
+              <mi>π<!-- π --></mi>
+              <msup>
+                <mi>σ<!-- σ --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mfrac>
+                <mrow>
+                  <mo stretchy="false">(</mo>
+                  <mi>x</mi>
+                  <mo>−<!-- − --></mo>
+                  <mi>μ<!-- μ --></mi>
+                  <msup>
+                    <mo stretchy="false">)</mo>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msup>
+                </mrow>
+                <mrow>
+                  <mn>2</mn>
+                  <msup>
+                    <mi>σ<!-- σ --></mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msup>
+                </mrow>
+              </mfrac>
+            </mrow>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{\sqrt {2\pi \sigma ^{2}}}}e^{-{\frac {(x-\mu )^{2}}{2\sigma ^{2}}}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ce7e315b02666699e0cd8ea5fb1a3e0c287cd9d" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.838ex; width:15.527ex; height:7.176ex;" alt="{\displaystyle {\frac {1}{\sqrt {2\pi \sigma ^{2}}}}e^{-{\frac {(x-\mu )^{2}}{2\sigma ^{2}}}}}"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Cumulative_distribution_function" title="Cumulative distribution function">CDF</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {1}{1+e^{-(x-\mu )/s}}}={\frac {1+\tanh {\frac {x-\mu }{2s}}}{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <msup>
+                <mi>e</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mo>−<!-- − --></mo>
+                  <mo stretchy="false">(</mo>
+                  <mi>x</mi>
+                  <mo>−<!-- − --></mo>
+                  <mi>μ<!-- μ --></mi>
+                  <mo stretchy="false">)</mo>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo>/</mo>
+                  </mrow>
+                  <mi>s</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>tanh</mi>
+              <mo>⁡<!-- ⁡ --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mrow>
+                    <mi>x</mi>
+                    <mo>−<!-- − --></mo>
+                    <mi>μ<!-- μ --></mi>
+                  </mrow>
+                  <mrow>
+                    <mn>2</mn>
+                    <mi>s</mi>
+                  </mrow>
+                </mfrac>
+              </mrow>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {1}{1+e^{-(x-\mu )/s}}}={\frac {1+\tanh {\frac {x-\mu }{2s}}}{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/841f3507b4810bd25d4211115d9d1720edfa96eb" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.338ex; width:30.538ex; height:7.176ex;" alt="{\displaystyle {\frac {1}{1+e^{-(x-\mu )/s}}}={\frac {1+\tanh {\frac {x-\mu }{2s}}}{2}}}"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Phi \left({\frac {x-\mu }{\sigma }}\right)={\frac {1}{2}}\left[1+\operatorname {erf} \left({\frac {x-\mu }{\sigma {\sqrt {2}}}}\right)\right]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">Φ<!-- Φ --></mi>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mrow>
+                <mi>x</mi>
+                <mo>−<!-- − --></mo>
+                <mi>μ<!-- μ --></mi>
+              </mrow>
+              <mi>σ<!-- σ --></mi>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mrow>
+          <mo>[</mo>
+          <mrow>
+            <mn>1</mn>
+            <mo>+</mo>
+            <mi>erf</mi>
+            <mo>⁡<!-- ⁡ --></mo>
+            <mrow>
+              <mo>(</mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mfrac>
+                  <mrow>
+                    <mi>x</mi>
+                    <mo>−<!-- − --></mo>
+                    <mi>μ<!-- μ --></mi>
+                  </mrow>
+                  <mrow>
+                    <mi>σ<!-- σ --></mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <msqrt>
+                        <mn>2</mn>
+                      </msqrt>
+                    </mrow>
+                  </mrow>
+                </mfrac>
+              </mrow>
+              <mo>)</mo>
+            </mrow>
+          </mrow>
+          <mo>]</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Phi \left({\frac {x-\mu }{\sigma }}\right)={\frac {1}{2}}\left[1+\operatorname {erf} \left({\frac {x-\mu }{\sigma {\sqrt {2}}}}\right)\right]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0fed43e25966344745178c406f04b15d0fa3783" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.838ex; width:36.321ex; height:6.509ex;" alt="{\displaystyle \Phi \left({\frac {x-\mu }{\sigma }}\right)={\frac {1}{2}}\left[1+\operatorname {erf} \left({\frac {x-\mu }{\sigma {\sqrt {2}}}}\right)\right]}"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Quantile_function" title="Quantile function">Quantile</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu +s\log \left({\frac {p}{1-p}}\right)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+        <mo>+</mo>
+        <mi>s</mi>
+        <mi>log</mi>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mrow>
+          <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mi>p</mi>
+              <mrow>
+                <mn>1</mn>
+                <mo>−<!-- − --></mo>
+                <mi>p</mi>
+              </mrow>
+            </mfrac>
+          </mrow>
+          <mo>)</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu +s\log \left({\frac {p}{1-p}}\right)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30fdc436e07663fa4f425651b2d506f86c740dc2" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.505ex; width:18.121ex; height:6.176ex;" alt="{\displaystyle \mu +s\log \left({\frac {p}{1-p}}\right)}"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu +\sigma {\sqrt {2}}\operatorname {erf} ^{-1}(2p-1)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+        <mo>+</mo>
+        <mi>σ<!-- σ --></mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <msqrt>
+            <mn>2</mn>
+          </msqrt>
+        </mrow>
+        <msup>
+          <mi>erf</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>−<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <mo>⁡<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mi>p</mi>
+        <mo>−<!-- − --></mo>
+        <mn>1</mn>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu +\sigma {\sqrt {2}}\operatorname {erf} ^{-1}(2p-1)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/510cf4025ba141645f21c7f06866867648d5bc21" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:22.19ex; height:3.176ex;" alt="{\displaystyle \mu +\sigma {\sqrt {2}}\operatorname {erf} ^{-1}(2p-1)}"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Expected_value" title="Expected value">Mean</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;" alt="{\displaystyle \mu }"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;" alt="{\displaystyle \mu }"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Median" title="Median">Median</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;" alt="{\displaystyle \mu }"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;" alt="{\displaystyle \mu }"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Mode_(statistics)" title="Mode (statistics)">Mode</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;" alt="{\displaystyle \mu }"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mu }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>μ<!-- μ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mu }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9fd47b2a39f7a7856952afec1f1db72c67af6161" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:1.402ex; height:2.176ex;" alt="{\displaystyle \mu }"></span></td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/Variance" title="Variance">Variance</a></th><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\frac {s^{2}\pi ^{2}}{3}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <msup>
+                <mi>s</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <msup>
+                <mi>π<!-- π --></mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mn>3</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {s^{2}\pi ^{2}}{3}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f9e1141f49e6711939a3757111a9dc5576990db0" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:5.369ex; height:5.676ex;" alt="{\displaystyle {\frac {s^{2}\pi ^{2}}{3}}}"></span></td><td colspan="3" class="infobox-data">
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \sigma ^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>σ<!-- σ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \sigma ^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/53a5c55e536acf250c1d3e0f754be5692b843ef5" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:2.385ex; height:2.676ex;" alt="{\displaystyle \sigma ^{2}}"></span></td></tr></tbody></table>
+
 # Probability theory basics機率基礎
 https://www.youtube.com/watch?v=GwSEguqJj6U&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk  
 台大電機 Prof. 葉丙成 機率與統計 2013，這個講得超好。
