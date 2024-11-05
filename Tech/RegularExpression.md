@@ -9,3 +9,17 @@
 | -- | -- | -- | -- | -- |
 | negative | q(?!u) | 匹配後面沒有u的q (matches a “q” not followed by a “u”) | (?<!a)b | 匹配前面沒有a的b (matches a “b” that is not preceded by an “a”) |
 | positive | q(?=u) | 匹配後面有u的q | (?<=a)b | 匹配前面有a的b |
+
+<hr>
+
+?, \*, \+這些都默認是**貪婪模式**，即返回匹配到的所有滿足條件的結果，[Adding a ? on a quantifier (?, * or +) makes it non-greedy.](https://stackoverflow.com/questions/2503413/regular-expression-to-stop-at-first-match)
+
+比如在把elo/probability basics這篇文章從wiki搬到blog的時候，從wikipedia抄來的公式有顯示錯誤，用下式刪掉。
+`\{\\displaystyle.*?\}(?=["<])`
+而不是
+`\{\\displaystyle.*?\}(?=["<])`，
+其中的\*要加個?才不會一路匹配到結尾。  
+比如下面這一串，之後忘記了可以測試一下直觀感受：
+`alt="{\displaystyle \mu ,}"></span> <a href="/wiki/Location_parameter" title="Location parameter">location</a> (<a href="/wiki/Real_number" title="Real number">real</a>)<br><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle s>0,}">`
+
+<hr>
