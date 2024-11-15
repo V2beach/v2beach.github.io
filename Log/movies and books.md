@@ -94,6 +94,8 @@
     - ✔ part3 C part5 B
 - ✔ 致命录像带7：超越4（鋼之鍊金術師人狗）
 - cs231n
+    - ✔lecture1～8
+- look back驀然回首，藤本樹
 - cs224n
 - cs224w
 - cs144
