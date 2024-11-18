@@ -95,7 +95,11 @@
 - ✔ 致命录像带7：超越4（鋼之鍊金術師人狗）
 - cs231n
     - ✔ lecture 1～7
-- ✔ look back驀然回首，藤本樹
+- ✔ look back驀然回首，藤本樹，清新動漫版星際穿越
+- ✔ 雙城之戰arcane season 2，每季9集看不爽
+- ✔ 天启Z，屍潮來了先擼貓，聖母男主降智劇情，比去年玩的walking dead差遠了，喪屍片裡我是傳奇和the last of us比較好
+- ✔ 銀翼殺手Blade Runner，去年還是前年看過了
+- ✔ Borgen，丹麥政治挺有意思，議會有十幾個黨派的人，北歐五國各國有各國的克朗各有各的匯率，只有一個國家用歐元
 - cs224n
 - cs224w
 - cs144
@@ -136,6 +140,7 @@
 - ✔ inmost(星露谷和屎大棒chucklefish呵呵鱼)
 - ✔ dota2(Defense of the Ancients (DotA),2013 multiplayer online battle arena (MOBA))
 - warcraft3, 1.31(no Reforged)
+- disco elysium
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
