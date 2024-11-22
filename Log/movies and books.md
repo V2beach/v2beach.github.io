@@ -87,7 +87,7 @@
 - ✔ 星际牛仔Cowboy Bebop（二周目）
 - ✔ colab [Working remotely on Google Colaboratory](https://cs231n.github.io/setup-instructions/#working-remotely-on-google-colaboratory), [CS231N Google Colab Assignment Workflow Tutorial](https://www.youtube.com/watch?v=DsGd2e9JNH4)
 - ✔ 李宏毅机器学习，四年前看过相当多他的课程，比看stanford的心态是轻松的
-- ✔ DreamLeague(BP的時候背景是樂隊的舒緩演奏，這太夢幻了) Season 24 XG拉了坨大的，s14¼決賽tes被t1零封和兩場半決賽，和決賽BLG vs. T1惜敗
+- ✔ DreamLeague(BP的時候背景是樂隊的舒緩演奏，這太夢幻了) Season 24 XG拉了坨大的，s14¼決賽tes被t1零封和兩場半決賽，和決賽BLG vs. T1惜敗，后來看ESL XG vs. Gaozu，王莽篡漢
 - 台大電機 Prof. 葉丙成 機率與統計 2013
     - ✔ part1
     - ✔ part2
@@ -100,6 +100,7 @@
 - ✔ 天启Z，屍潮來了先擼貓，聖母男主降智劇情，比去年玩的walking dead差遠了，喪屍片裡我是傳奇和the last of us比較好
 - ✔ 銀翼殺手Blade Runner，去年還是前年看過了
 - ✔ Borgen，丹麥政治挺有意思，議會有十幾個黨派的人，北歐五國各國有各國的克朗各有各的匯率，只有一個國家用歐元
+- ✔ 雲頂之弈:双城之战2，新賽季一把藍髮小隊拿了個老二，lol自走棋每賽季剛開始時都還是蠻有趣的
 - cs224n
 - cs224w
 - cs144
