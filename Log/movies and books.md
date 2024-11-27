@@ -101,7 +101,7 @@
 - ✔ 銀翼殺手Blade Runner，去年還是前年看過了
 - ✔ Borgen，丹麥政治挺有意思，議會有十幾個黨派的人，北歐五國各國有各國的克朗各有各的匯率，只有一個國家用歐元
 - ✔ 雙城之戰2
-- ✔ 輻射fallout，season1，爽度大於雙城之戰，最經典的美劇之爽，like權游/毒師/better call saul/越獄/怪奇物語/etc
+- ✔ 輻射fallout，season1，爽度大於雙城之戰，最經典的美劇之爽，可是結尾劇情不足以支撐前面讓你爽的伏筆，like權游/越獄/怪奇物語，巔峰還是非架空世界的毒師/better call saul
 - cs224n
 - cs224w
 - cs144
@@ -141,7 +141,7 @@
 - ✔ zachtornics solitaire
 - ✔ inmost(星露谷和屎大棒chucklefish呵呵鱼)
 - ✔ dota2(Defense of the Ancients (DotA),2013 multiplayer online battle arena (MOBA))
-- ✔ 雲頂之弈:双城之战2，新賽季一把藍髮小隊拿了個老二，lol自走棋每賽季剛開始時都還是蠻有趣的
+- ✔ 雲頂之弈:双城之战2，新賽季一把藍髮小隊拿了個老二，lol自走棋每賽季剛開始時都還是蠻有趣的，但雲頂加入的變異再次提速，前兩個賽季我都是喜歡玩6級7級D出3星的賭狗陣容，現在這種人更多就更難了
 - warcraft3, 1.31(no Reforged)
 - disco elysium
 
