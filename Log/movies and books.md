@@ -95,6 +95,10 @@
 - ✔ 致命录像带7：超越4（鋼之鍊金術師人狗）
 - cs231n
     - ✔ lecture 1～7
+    - ✔ assigment 1, 2
+    - ✔ lecture 8～14
+    - ✔ lecture 15, 16
+    - assignment 3
 - ✔ look back驀然回首，藤本樹，清新動漫版星際穿越
 - ✔ 雙城之戰arcane season 2，每季9集看不爽
 - ✔ 天启Z，屍潮來了先擼貓，聖母男主降智劇情，比去年玩的walking dead差遠了，喪屍片裡我是傳奇和the last of us比較好
@@ -104,6 +108,7 @@
 - ✔ 輻射fallout，season1，爽度大於雙城之戰，最經典的美劇之爽，可是結尾劇情不足以支撐前面讓你爽的伏筆，like權游/越獄/怪奇物語，巔峰還是非架空世界的毒師/better call saul
 - ✔ 生命是個奇蹟，life is a miracle，塞爾維亞拍蘇聯解體後南斯拉夫內戰，這半年來看過最好的電影
 - 一部未完成的電影
+- ✔ [鏖战百万级蟑螂大军（非虚数），心理阴影面积比太平洋还大](https://www.bilibili.com/video/BV1ZozzYyEVR)：年度最折磨最惡心的視頻，比血腥視頻（比如中國的無差別傷人/恐怖襲擊事件，比如血腥電影）更讓我嚴重不適
 - cs224n
 - cs224w
 - cs144
