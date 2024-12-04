@@ -109,7 +109,9 @@
 - ✔ 生命是個奇蹟，life is a miracle，塞爾維亞拍蘇聯解體後南斯拉夫內戰，這半年來看過最好的電影
 - 一部未完成的電影
 - ✔ [鏖战百万级蟑螂大军（非虚数），心理阴影面积比太平洋还大](https://www.bilibili.com/video/BV1ZozzYyEVR)：年度最折磨最惡心的視頻，比血腥視頻（比如中國的無差別傷人/恐怖襲擊事件，比如血腥電影）更讓我嚴重不適
+- The Mask變相怪傑 和 地狱男爵Hellboy原來都是黑馬漫畫的超級英雄作品，童年的經典
 - cs224n
+    - 2023 lecture 1
 - cs224w
 - cs144
 - cs143
@@ -152,6 +154,10 @@
 - warcraft3, 1.31(no Reforged)
 - disco elysium
 - HoMM英雄無敵3
+    - ✔ Campaign Long Live the Queen
+- ✔ chess
+- Mass Effect™ Legendary Edition
+    - 還在家屬院老房子裡的時候玩過一陣子，看朋友的評測大概得預留出150小時才能玩完這三部曲
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
