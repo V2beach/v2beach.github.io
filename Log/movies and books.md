@@ -58,7 +58,6 @@
 - ✔ 你想活出怎样的人生
     - 1937同名小说，宫崎骏新电影，改编自2017年改编漫画
 - ✘ Four Lions
-- ✘ 辐射美剧，可以跟辐射4一块儿
 - ✔ 东北告别天团，一坨
 - ✔ 东北告别天团2，大便
 - ✔ 间谍过家家代号白Spy × Family Code: White，国内首映，4.20提前十天
@@ -88,7 +87,7 @@
 - The Great Escape
 - ✔ 混沌武士Samurai Champloo（多年以前刘卜语推的，想看星际牛仔记成混沌武士了）
 - ✔ 星际牛仔Cowboy Bebop（二周目）
-- ✔ colab [Working remotely on Google Colaboratory](https://cs231n.github.io/setup-instructions/#working-remotely-on-google-colaboratory), [CS231N Google Colab Assignment Workflow Tutorial](https://www.youtube.com/watch?v=DsGd2e9JNH4)
+- ✔ [Working remotely on Google Colaboratory](https://cs231n.github.io/setup-instructions/#working-remotely-on-google-colaboratory), [CS231N Google Colab Assignment Workflow Tutorial](https://www.youtube.com/watch?v=DsGd2e9JNH4)
 - ✔ 李宏毅机器学习，四年前看过相当多他的课程，比看stanford的心态是轻松的
 - ✔ DreamLeague(BP的時候背景是樂隊的舒緩演奏，這太夢幻了) Season 24 XG拉了坨大的，s14¼決賽tes被t1零封和兩場半決賽，和決賽BLG vs. T1惜敗，后來看ESL XG vs. Gaozu，王莽篡漢
 - 台大電機 Prof. 葉丙成 機率與統計 2013
@@ -109,7 +108,7 @@
 - ✔ Borgen，丹麥政治挺有意思，議會有十幾個黨派的人，北歐五國各國有各國的克朗各有各的匯率，只有一個國家用歐元
 - ✔ 雙城之戰2
 - ✔ 輻射fallout，season1，爽度大於雙城之戰，最經典的美劇之爽，可是結尾劇情不足以支撐前面讓你爽的伏筆，like權游/越獄/怪奇物語，巔峰還是非架空世界的毒師/better call saul
-- ✔ 生命是個奇蹟，life is a miracle，塞爾維亞拍蘇聯解體後南斯拉夫內戰，這半年來看過最好的電影
+- ✔ 生命是個奇蹟，**Life is a Miracle**，塞爾維亞拍蘇聯解體後南斯拉夫內戰，這半年來看過最好的電影，大概是**今年最好的一部電影**
 - 一部未完成的電影
 - ✔ [鏖战百万级蟑螂大军（非虚数），心理阴影面积比太平洋还大](https://www.bilibili.com/video/BV1ZozzYyEVR)：年度最折磨最惡心的視頻，比血腥視頻（比如中國的無差別傷人/恐怖襲擊事件，比如血腥電影）更讓我嚴重不適
 - The Mask變相怪傑 和 地狱男爵Hellboy原來都是黑馬漫畫的超級英雄作品，童年的經典
@@ -139,7 +138,7 @@
     - 有趣，但因为玩法重复没动力开新图
 - ✘ Rome: Total War
     - 想玩得十年了，上次尝试玩是半年多前（和骑砍，但骑砍和大航海时代这种贩子主线都有点玩不动）
-- ✘ Fallout辐射4
+- Fallout辐射4
 - ✔ Feed The Cups
     - 做奶茶，比分手厨房好玩
 - ✔ Teamfight Tactics
