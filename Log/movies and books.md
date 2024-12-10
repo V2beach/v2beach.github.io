@@ -100,7 +100,8 @@
     - ✔ assigment 1, 2
     - ✔ lecture 8～14
     - ✔ lecture 15, 16
-    - assignment 3
+    - ✔ assignment 3
+    - ✔ 2019 attention, 2021 self-supervised
 - ✔ look back驀然回首，藤本樹，清新動漫版星際穿越
 - ✔ 雙城之戰arcane season 2，每季9集看不爽
 - ✔ 天启Z，屍潮來了先擼貓，聖母男主降智劇情，比去年玩的walking dead差遠了，喪屍片裡我是傳奇和the last of us比較好
@@ -114,10 +115,27 @@
 - The Mask變相怪傑 和 地狱男爵Hellboy原來都是黑馬漫畫的超級英雄作品，童年的經典
 - cs224n
     - 2023 lecture 1
-- cs224w
-- cs144
-- cs143
+- ✔ Chiikawa
+    - 看了十來集，究極泡麵番，226集每集1分鐘內容。只有chiikawa會說話，兩個朋友只有表情、哼唧和肢體動作。
+    - 原來藍耳主角是貓，第8集吐hairball，白色Hachiware，小八，Hachi是秋田犬來著？小八的朋友Usagi是只黃色傻兔子。
+- cs224w 圖神經網絡，大論文需要就看，[6 个编程作业，3 个 LaTeX 书面作业](http://web.stanford.edu/class/cs224w/)，不需要拉倒。[說是口音很印地](https://csdiy.wiki/深度学习/CS224w/)，但是有colab和[notes](https://snap-stanford.github.io/cs224w-notes/)很方便。
+- cs144 計算機網絡，傳統cs課程預計學時說是都是nn課程的兩倍，原來大家對cs231n的評價是“内容相对基础且友好”。
+>2024WINETER 把Lab4：TCPConnection删了，换成了“Lab4：interoperating in the real world”  
+>感觉这个lab不考察对整个structure的理解，仅仅只是一些算法的实现（有测试用例的话比Leetcode还简单）。要想有收获还是得深入到它的整个源码来思考架构和原理。  
+>[Computer Networking: A Top-Down Approach](https://csdiy.wiki/计算机网络/topdown/) 說是課講得很好。
 
+- cs143 編譯原理，關鍵課，最後悔疫情在家上課沒正經學的一門。[5個編程作業為COOL語言實現一個編譯器，編譯為MIPS匯編在Spim上模擬。](https://csdiy.wiki/编译原理/CS143/)
+>只有够了解才能更加优化。  
+>现在的 AI 架构都有用上编译技术进行中间优化，例如 Tensorflow、TVM，这些东西的本质就是一个内嵌的领域专用程序语言（EDSL）。 还有一个编程范式叫增量计算 （incremental computation），是反应式编程、数据流编程的一种，当节点上有任何数据更新/发送信号，数据相依的路径也会更新，游戏脚本设计、金融系统会用到。 还有树的优化，用元编程把树的走访消融在一块，可以减少快取丢失，浏览器的网页渲染会用得上。光追也有用元编程优化的技术。 所以编译原理学到的东西，不一定真的是要去搞编程语言设计还是编译器开发才用得上，做一些架构设计的时候它的精神本质就是一种编译器。还有编译器工具链的build系统可以对应到很多的设计应用，可以看知乎这篇 https://zhuanlan.zhihu.com/p/375651053 。  
+>数据库：ast，SQL优化器；AI编译器；服务端调优，对runtime，VM，自动GC等的调优。前端工具链，造轮子。汇编语言的设计哲学。
+
+- cs61c(UCB) [projects很有趣](https://csdiy.wiki/体系结构/CS61C/)
+>Project1 会让你用 C 语言写一个小程序，20 年秋季学期是著名的游戏 Game of Life。Project2 会让你用 RISC-V 汇编编写一个神经网络，用来 识别 MNIST 手写数字，非常锻炼你对汇编代码的理解和运用。Project3 中你会用 Logisim 这个数字电路模拟软件搭建出一个二级流水线的 CPU，并在上面运行 RISC-V 汇编代码。Project4 会让你使用 OpenMP, SIMD 等方法并行优化矩阵运算，实现一个简易的 Numpy。  
+>总而言之，这是个人上过的最好的计算机体系结构的课程。
+
+- 6.s081用C, RISC-V，這兩門課都要有體系結構基礎，可雲大體系結構老師太爛了，只跟著實驗課老師學了一點電路和模擬知識，所以應該得先補體系結構。[(時間多久做難度高的cs162，時間緊就做6.s081 xv6，教授是PDOS的Morris作者頂級黑客)](https://csdiy.wiki/操作系统/MIT6.S081/)
+- 6.824 分布式系統，老師跟上面一樣。用Go，[跟cs231n一樣答案無數力圖自主完成，學過作業系統應該就能完成。](https://csdiy.wiki/并行与分布式系统/MIT6.824/)
+- ✔ 海邊曼徹斯特，Manchester By the Sea
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
 - ✔ Undertale
@@ -164,6 +182,7 @@
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
 
+- ✔ 海邊曼徹斯特，Manchester By the Sea，2022年2021年看了無數遍。
 - ✔ 咒怨，跟女友一起拉着窗帘看不吓人，伽倻子和俊雄还成为了我俩的梗
 - ✔ 美版午夜凶铃Ring，看了录像带七天内都要死/拍照脸会糊，在井里冤死的从电视里爬出来的贞子
 - ✔ 危情十日Misery，女粉丝囚禁作家，惊悚
