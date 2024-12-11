@@ -27,11 +27,11 @@ cp -r ~/code/wiki/master/_book ~/code/wiki/
 rm -rf ~/code/wiki/master/_book
 git add .
 git commit -m "some new knowledge"
-git push -u origin master
+git push -u origin master --force
 cd ~/code/wiki/_book
 git add .
 git commit -m "some new knowledge"
-git push -u origin gh-pages
+git push -u origin gh-pages --force
 cd ~/code/wiki/master
 
 if "fatal: not a git repository (or any of the parent directories): .git"
