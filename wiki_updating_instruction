@@ -37,3 +37,6 @@ cd ~/code/wiki/master
 if "fatal: not a git repository (or any of the parent directories): .git"
 then "git clone -b gh-pages --single-branch https://github.com/V2beach/v2beach.github.io.git"
 and "mv v2beach.github.io _book"
+
+git push -u origin master --force
+git push -u origin gh-pages --force
