@@ -15,7 +15,7 @@
 ?, \*, \+這些都默認是**貪婪模式**，即返回匹配到的所有滿足條件的結果，[Adding a ? on a quantifier (?, * or +) makes it non-greedy.](https://stackoverflow.com/questions/2503413/regular-expression-to-stop-at-first-match)
 
 比如在把elo/probability basics這篇文章從wiki搬到blog的時候，從wikipedia抄來的公式有顯示錯誤，用下式刪掉。
-`\{\\displaystyle.*?\}(?=["<])`
+`\{\\displaystyle.*\}(?=["<])`
 而不是
 `\{\\displaystyle.*?\}(?=["<])`，
 其中的\*要加個?才不會一路匹配到結尾。  

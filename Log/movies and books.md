@@ -36,8 +36,9 @@
 - Beginning Lua with World of Warcraft Addons
     - ✔ Chapter 1 3 4
     - ✘ Chapter 5 XML and Frames
-
-
+- 戰爭事典
+    - 人類的歷史就是戰爭的歷史。
+    - 跟袁騰飛找到一個很有趣的視角，圖書館借的歷史我看不下去，但我對戰爭感興趣。
 
 ## movies
 - ✔ 猛龙过江The Way of  the Dragon
@@ -116,8 +117,8 @@
 - cs224n
     - 2023 lecture 1
 - ✔ Chiikawa
-    - 看了十來集，究極泡麵番，226集每集1分鐘內容。只有chiikawa會說話，兩個朋友只有表情、哼唧和肢體動作。
-    - 原來藍耳主角是貓，第8集吐hairball，白色Hachiware，小八，Hachi是秋田犬來著？小八的朋友Usagi是只黃色傻兔子。
+    - 看了十來集，究極泡麵番，226集每集1分鐘內容。只有Hachiware會說話，兩個朋友只有表情、哼唧和肢體動作。
+    - 藍耳Hachiware是貓，第8集吐hairball，白色Chiikawa，是倉鼠，Chiikawa的朋友Usagi是只黃色傻兔子。
 - cs224w 圖神經網絡，大論文需要就看，[6 个编程作业，3 个 LaTeX 书面作业](http://web.stanford.edu/class/cs224w/)，不需要拉倒。[說是口音很印地](https://csdiy.wiki/深度学习/CS224w/)，但是有colab和[notes](https://snap-stanford.github.io/cs224w-notes/)很方便。
 - cs144 計算機網絡，傳統cs課程預計學時說是都是nn課程的兩倍，原來大家對cs231n的評價是“内容相对基础且友好”。
 >2024WINETER 把Lab4：TCPConnection删了，换成了“Lab4：interoperating in the real world”  
@@ -135,7 +136,8 @@
 
 - 6.s081用C, RISC-V，這兩門課都要有體系結構基礎，可雲大體系結構老師太爛了，只跟著實驗課老師學了一點電路和模擬知識，所以應該得先補體系結構。[(時間多久做難度高的cs162，時間緊就做6.s081 xv6，教授是PDOS的Morris作者頂級黑客)](https://csdiy.wiki/操作系统/MIT6.S081/)
 - 6.824 分布式系統，老師跟上面一樣。用Go，[跟cs231n一樣答案無數力圖自主完成，學過作業系統應該就能完成。](https://csdiy.wiki/并行与分布式系统/MIT6.824/)
-- ✔ 海邊曼徹斯特，Manchester By the Sea
+- 海邊曼徹斯特，Manchester By the Sea
+
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
 - ✔ Undertale
@@ -178,6 +180,9 @@
 - ✔ chess
 - Mass Effect™ Legendary Edition
     - 還在家屬院老房子裡的時候玩過一陣子，看朋友的評測大概得預留出150小時才能玩完這三部曲
+- go home Annie，辣雞 scp，扮演收容人員
+- 无人 there exists nobody，這個恐怖遊戲的中國老街道做得真好
+- 笼子，100层多人合作吃人电梯，这游戏不错
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。

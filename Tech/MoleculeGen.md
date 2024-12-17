@@ -1,1 +1,1 @@
-chatgpt帮帮忙
+見 [blog](https://blog.v2beach.cn/2024/12/14/Molecule/) 。
