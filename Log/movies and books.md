@@ -119,7 +119,7 @@
 - ✔ Chiikawa
     - 看了十來集，究極泡麵番，226集每集1分鐘內容。只有Hachiware會說話，兩個朋友只有表情、哼唧和肢體動作。
     - 藍耳Hachiware是貓，第8集吐hairball，白色Chiikawa，是倉鼠，Chiikawa的朋友Usagi是只黃色傻兔子。
-- ✔ 仰泳抹香鲸的博德之门 3 规则讲解，唯一看的攻略视频，想起来两年前玩博德之门 1 还白嫖 vivo 彩印了一整本 dnd 规则书，大几百页，这次说不定也会找来看🐋
+- ✔ 仰泳抹香鲸的博德之门 3 规则讲解，唯一看的攻略视频，想起来两年前玩博德之门 1 还白嫖 vivo 彩印了一整本 dnd 规则书，大几百页，这次说不定也会找来看🐋。
 - cs224w 圖神經網絡，大論文需要就看，[6 个编程作业，3 个 LaTeX 书面作业](http://web.stanford.edu/class/cs224w/)，不需要拉倒。[說是口音很印地](https://csdiy.wiki/深度学习/CS224w/)，但是有colab和[notes](https://snap-stanford.github.io/cs224w-notes/)很方便。
 - cs144 計算機網絡，傳統cs課程預計學時說是都是nn課程的兩倍，原來大家對cs231n的評價是“内容相对基础且友好”。
 >2024WINETER 把Lab4：TCPConnection删了，换成了“Lab4：interoperating in the real world”  
@@ -185,6 +185,7 @@
 - 无人 there exists nobody，這個恐怖遊戲的中國老街道做得真好
 - 笼子，100层多人合作吃人电梯，这游戏不错
 - 博德之门3，zzh 放弃考马哲，确实很好玩。
+- ✔ OmeTV, Monkey.app
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
