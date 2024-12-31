@@ -116,11 +116,15 @@
 - ✔ [鏖战百万级蟑螂大军（非虚数），心理阴影面积比太平洋还大](https://www.bilibili.com/video/BV1ZozzYyEVR)：年度最折磨最惡心的視頻，比血腥視頻（比如中國的無差別傷人/恐怖襲擊事件，比如血腥電影）更讓我嚴重不適。這個視頻剛刷到的時候沒人看，過了一個周播放量開始暴漲，所有人都在看。
 - The Mask變相怪傑 和 地狱男爵Hellboy原來都是黑馬漫畫的超級英雄作品，童年的經典
 - cs224n
-    - 2023 lecture 1
+    - ✔ 2023 lecture 1
 - ✔ Chiikawa
     - 看了十來集，究極泡麵番，226集每集1分鐘內容。只有Hachiware會說話，兩個朋友只有表情、哼唧和肢體動作。
     - 藍耳Hachiware是貓，第8集吐hairball，白色Chiikawa，是倉鼠，Chiikawa的朋友Usagi是只黃色傻兔子。
 - ✔ 仰泳抹香鲸的博德之门 3 规则讲解，唯一看的攻略视频，想起来两年前玩博德之门 1 还白嫖 vivo 彩印了一整本 dnd 规则书，大几百页，这次说不定也会找来看🐋。
+- 海邊曼徹斯特，Manchester By the Sea
+- ✔ 天赐之女，The Girl with All the Gifts，有最后生还者的影子，真菌给丧二代供氧，人类被物竞天择自然淘汰很有意思。你不能只在你赢的时候物竞天择，该被淘汰就被淘汰。
+
+想看的课：
 - cs224w 圖神經網絡，大論文需要就看，[6 个编程作业，3 个 LaTeX 书面作业](http://web.stanford.edu/class/cs224w/)，不需要拉倒。[說是口音很印地](https://csdiy.wiki/深度学习/CS224w/)，但是有colab和[notes](https://snap-stanford.github.io/cs224w-notes/)很方便。
 - cs144 計算機網絡，傳統cs課程預計學時說是都是nn課程的兩倍，原來大家對cs231n的評價是“内容相对基础且友好”。
 >2024WINETER 把Lab4：TCPConnection删了，换成了“Lab4：interoperating in the real world”  
@@ -138,7 +142,6 @@
 
 - 6.s081用C, RISC-V，這兩門課都要有體系結構基礎，可雲大體系結構老師太爛了，只跟著實驗課老師學了一點電路和模擬知識，所以應該得先補體系結構。[(時間多久做難度高的cs162，時間緊就做6.s081 xv6，教授是PDOS的Morris作者頂級黑客)](https://csdiy.wiki/操作系统/MIT6.S081/)
 - 6.824 分布式系統，老師跟上面一樣。用Go，[跟cs231n一樣答案無數力圖自主完成，學過作業系統應該就能完成。](https://csdiy.wiki/并行与分布式系统/MIT6.824/)
-- 海邊曼徹斯特，Manchester By the Sea
 
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
