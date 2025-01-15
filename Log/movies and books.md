@@ -201,14 +201,14 @@
     - chd居然文明6和博德3分别打了上千小时，我在忙着实习完找回自我的时候看来大家都有事情在忙。
     - 除了能杀时间外一无是处，12-24 平安夜这天本来要跑专利代码，中午打开游戏打完就到晚上了。
     - 训练关不知为何，战胜了其他文明没有战争胜利，完成了 3 个火星殖民地研究没有科技胜利。打了五百个回合还没结束，完全没有新内容了，连伟人都刷光了，野怪不会打我，无尽的生产和商人循环。
-![](/assets/IMG_1212.JPG)
+<div align=center><img src="/assets/IMG_1212.JPG" loading="lazy" alt="" width="50%" height="50%"></div>
 - 欧陆风云 4，Europa Universalis IV，打算主玩英国，根据 15c 到 19c [去年写的 timeline](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)，当作 RPG 应该会很好玩。
 - ✔ 燕云十六声比诛仙世界强多了，我工作过了解过的公司里网易给我的印象算是最好的之一了，逆水寒永劫无间梦幻西游，第五人格阴阳师狼人杀蛋仔，[年底的Marvel Rivals漫威争锋太牛逼了，比Marvel Avengers做得强太多了，](https://youtu.be/lWtCs3r8WQk?si=qDSjq7VUk5zP58k1)一月份先投网易吧。
 - Fallout辐射4，博德3中断，SP通关，等molgen结果的时候来玩玩，评价说是好过本体的Far Harbor冬促没买。
     - 至少一年没玩这种接近第一人称的游戏，玩一小时就晕。
 - Frostpunk，从刚发售王老菊做视频到现在，断断续续地一直在尝试但没玩下去。跟 11 bits 的 This War of Mine 一样，从 2019 年玩到 2022 年才通。
     - macOS玩不了的游戏就有点麻烦，懒得换设备玩。
-- Total War: SHOGUN 2，突然又对幕府全战2有兴趣了，打通几次战役攒10个成就拉倒。
+- ✔ Total War: SHOGUN 2，突然又对幕府全战2有兴趣了，打通几次战役攒10个成就拉倒。
     - 幕府（日语：幕府／ばくふ bakufu */?）是指日本歷史上由征夷大將軍（俗稱幕府將軍，簡稱將軍）領導與統治的武家政權，為日本特有國情下所產生近似「尊王攘夷」的政治體制，**從1185年（中国还没到元朝，五代十国南北宋辽金元）源平合戰結束時開始，至1867年明治維新時結束，歷經鎌倉幕府、室町幕府、江戶幕府**三個幕府時期，由河內源氏、北條氏、足利氏、德川氏先後相繼統治時間總長**682年**。
     - 实质是武官执政，军政府，🇯🇵说是向来有武官执政的传统。
     - 镰仓幕府 Kamakura，室町幕府 Muromachi，德川幕府 Edo是江户即东京/Tokugawa是德川clan。
@@ -226,10 +226,10 @@
 - ✔ Minion Masters，deck building 塔防，全是氪金元素
 - ✔ Higurashi When They Cry Hou - Ch.1 Onikakushi，寒蝉鸣泣之时，这两年除了朋友送的魔法使之夜实在看不下去日本视觉小说类型的故事，虽然因为听海涌和幕府全战这些作品越来越有兴趣，但了解得越多后似乎越来越讨厌这个国家了
 - ✔ Candle，蜡烛人解谜，画风不错
-- Regions Of Ruin，视角和画风跟kingdom都很像，不过这个RPG比Kingdom系列更好玩
+- ✔ Regions Of Ruin，视角和画风跟kingdom都很像，不过这个RPG比Kingdom系列更好玩
     - 全成就了，有空评测下
-![](/assets/Screenshot 2025-01-15 at 01.03.48.png)
-- Darkwood
+<div align=center><img src="/assets/Screenshot 2025-01-15 at 01.03.48.png" loading="lazy" alt="" width="66%" height="66%"></div>
+- Cube Escape: Paradox，锈湖的游戏到目前我似乎只玩了跟女友双人的 The Past Within
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
@@ -317,7 +317,7 @@
 - ✘ The Life of Oharu 1952西鹤一代女，“日本物哀电影”？一个苦命妓女
 - ✔ 异种族风俗娘评鉴指南，好像是兄弟22年推荐我看的，记不清了
 - ✔ The Last of Us，前好后烂，演出不如游戏
-![cc98tlou](/assets/IMG_6338.jpg)
+<div align=center><img src="/assets/IMG_6338.jpg" loading="lazy" alt="cc98tlou" width="50%" height="50%"></div>
 - ✔ Stranger Things (怪奇物语) 用手机/平板远程VLC连nas看完了，四季全看了，后面两季有点拉，前期巨精彩，跟冰与火之歌（2022年底在商汤时熬夜看的）一样高开低走。
 - ✔ 穿条纹睡衣的男孩 The Boy in the Striped Pajamas，啥时候看过了
 - ✔ 绝命毒师
@@ -326,14 +326,14 @@
 - ✔ Fate/stay night TV 01-24命运之夜 Reseed在nas上下了个资源，还行，总算是看过了Fate
 
 2023年也玩了很多很多游戏，大部分认真玩的都写测评了，年终时又跟女友沉迷了自走棋音乐赛季。  
-![光速上钻](/assets/上钻了.png)  
+<div align=center><img src="/assets/上钻了.png" loading="lazy" alt="光速上钻" width="50%" height="50%"></div>  
 
 三国杀玩了一年充了千把块，在23年打了6个赛季排位拿到神赵云之后终于弃坑，只看小半个橙子视频下饭。  
 2024年5月中旬又因为受伤玩画之灵赛季，给对象的号上了个大师，这俩赛季都是用3星3费阵容赌狗运营一招鲜吃遍天。  
-![简单上钻](/assets/IMG_0975.PNG)  
-![6幽魂3星4费塞拉斯也随便打](/assets/IMG_0980.PNG)  
-![一天5把鸡，连续3鸡上大师](/assets/IMG_0983.PNG)  
-![跟呼吸一样简单](/assets/IMG_0985.PNG)  
+<div align=center><img src="/assets/IMG_0975.PNG" loading="lazy" alt="简单上钻" width="50%" height="50%"></div>  
+<div align=center><img src="/assets/IMG_0980.PNG" loading="lazy" alt="6幽魂3星4费塞拉斯也随便打" width="50%" height="50%"></div>  
+<div align=center><img src="/assets/IMG_0983.PNG" loading="lazy" alt="一天5把鸡，连续3鸡上大师" width="50%" height="50%"></div>  
+<div align=center><img src="/assets/IMG_0985.PNG" loading="lazy" alt="跟呼吸一样简单" width="50%" height="50%"></div>  
 
 # 旁白
 写这个log时是2024-03-03，我们项目有13个人去毕业答辩了，而我还在看gggy直播。
