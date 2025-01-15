@@ -227,9 +227,13 @@
 - ✔ Higurashi When They Cry Hou - Ch.1 Onikakushi，寒蝉鸣泣之时，这两年除了朋友送的魔法使之夜实在看不下去日本视觉小说类型的故事，虽然因为听海涌和幕府全战这些作品越来越有兴趣，但了解得越多后似乎越来越讨厌这个国家了
 - ✔ Candle，蜡烛人解谜，画风不错
 - ✔ Regions Of Ruin，视角和画风跟kingdom都很像，不过这个RPG比Kingdom系列更好玩
-    - 全成就了，有空评测下
+    - 全成就了
 <div align=center><img src="/assets/Screenshot 2025-01-15 at 01.03.48.png" loading="lazy" alt="" width="66%" height="66%"></div>
+- ✔ Darkwood，很牛的恐怖游戏，先打了个prologue有心情再玩
 - Cube Escape: Paradox，锈湖的游戏到目前我似乎只玩了跟女友双人的 The Past Within
+- Planescape: Torment异域镇魂曲，跟Baldur's Gate是黑岛Black Isle同一年的作品？1999
+    - Plane原来是位面的意思，2025.1.15尝试，时隔一年3个月第一次接触老板果然让我做了那些我认为他会让我做的（导电），但是这次我跟着自己的思路走，以毕业为核心
+    - Black Isle Studios黑岛1996成立2003就倒闭了
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
