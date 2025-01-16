@@ -157,9 +157,8 @@
     - 朋友送的，视觉小说，下饭看
     - 跟Fate/Stay Night设定大致相同，Fate里英灵殿召唤saber是第三魔法，这作里青子祖父探索第五魔法操作时间
     - 声优和战斗演出意外地出色，剧情比fsn强点
-- ✔ Degrees of Separation森林冰火人
-    - 无聊
-- ✔ BOKURA，不同视角的双人解谜
+- ✔ Degrees of Separation 无聊版森林冰火人
+- ✔ BOKURA，双人不同视角的解谜
 - ✘ Divinity: Original Sin II
     - 原神启动，感谢女友送我的博德之门3
     - 兄弟不爱玩回合制战斗，这也曾是我选择玩博德之门1/2而不是神界原罪的原因
@@ -190,9 +189,9 @@
 - ✔ chess
 - Mass Effect™ Legendary Edition
     - 還在家屬院老房子裡的時候玩過一陣子，看朋友的評測大概得預留出150小時才能玩完這三部曲
-- ☁️✔ go home Annie，辣雞 scp，扮演收容人員
-- ☁️✔ 无人 there exists nobody，這個恐怖遊戲的中國老街道做得真好
-- ☁️✔ 笼子，100层多人合作吃人电梯，这游戏不错
+- ✔ go home Annie（老e），辣雞 scp，扮演收容人員
+- ✔ 无人 there exists nobody（老e），這個恐怖遊戲的中國老街道做得真好，類八番（八號出口的日文名）
+- ✔ 笼子（老e），100层多人合作吃人电梯，这游戏不错
 - 博德之门3，zzh 放弃考马哲，确实很好玩。
 - ✔ OmeTV, Monkey.app
 - ✔ Buckshot Roulette，猎枪轮盘赌，单人前两个小时很好玩，多人很有潜力，可已没有以前那样能一起玩火柴人乱斗和 helldiver 的一大群朋友...
@@ -203,21 +202,23 @@
     - 训练关不知为何，战胜了其他文明没有战争胜利，完成了 3 个火星殖民地研究没有科技胜利。打了五百个回合还没结束，完全没有新内容了，连伟人都刷光了，野怪不会打我，无尽的生产和商人循环。
 <div align=center><img src="/assets/IMG_1212.JPG" loading="lazy" alt="" width="50%" height="50%"></div>
 - 欧陆风云 4，Europa Universalis IV，打算主玩英国，根据 15c 到 19c [去年写的 timeline](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)，当作 RPG 应该会很好玩。
-- ✔ 燕云十六声比诛仙世界强多了，我工作过了解过的公司里网易给我的印象算是最好的之一了，逆水寒永劫无间梦幻西游，第五人格阴阳师狼人杀蛋仔，[年底的Marvel Rivals漫威争锋太牛逼了，比Marvel Avengers做得强太多了，](https://youtu.be/lWtCs3r8WQk?si=qDSjq7VUk5zP58k1)一月份先投网易吧。
+- ✔ 永劫無間（網吧跟女友雙排）漫威爭鋒（老e）
+- ✔ 燕云十六声（老e和狗雨）比诛仙世界（狗雨）强多了，我工作过了解过的公司里网易给我的印象算是最好的之一了，逆水寒永劫无间梦幻西游，第五人格阴阳师狼人杀蛋仔，[年底的Marvel Rivals漫威争锋太牛逼了，比Marvel Avengers做得强太多了，](https://youtu.be/lWtCs3r8WQk?si=qDSjq7VUk5zP58k1)一月份先投网易吧。
 - Fallout辐射4，博德3中断，SP通关，等molgen结果的时候来玩玩，评价说是好过本体的Far Harbor冬促没买。
     - 至少一年没玩这种接近第一人称的游戏，玩一小时就晕。
 - Frostpunk，从刚发售王老菊做视频到现在，断断续续地一直在尝试但没玩下去。跟 11 bits 的 This War of Mine 一样，从 2019 年玩到 2022 年才通。
     - macOS玩不了的游戏就有点麻烦，懒得换设备玩。
 - ✔ Total War: SHOGUN 2，突然又对幕府全战2有兴趣了，打通几次战役攒10个成就拉倒。
-    - 幕府（日语：幕府／ばくふ bakufu */?）是指日本歷史上由征夷大將軍（俗稱幕府將軍，簡稱將軍）領導與統治的武家政權，為日本特有國情下所產生近似「尊王攘夷」的政治體制，**從1185年（中国还没到元朝，五代十国南北宋辽金元）源平合戰結束時開始，至1867年明治維新時結束，歷經鎌倉幕府、室町幕府、江戶幕府**三個幕府時期，由河內源氏、北條氏、足利氏、德川氏先後相繼統治時間總長**682年**。
+    - 幕府（日语：幕府／ばくふ bakufu）是指日本歷史上由征夷大將軍（俗稱幕府將軍，簡稱將軍）領導與統治的武家政權，為日本特有國情下所產生近似「尊王攘夷」的政治體制，**從1185年（中国还没到元朝，五代十国南北宋辽金元）源平合戰結束時開始，至1867年明治維新時結束，歷經鎌倉幕府、室町幕府、江戶幕府**三個幕府時期，由河內源氏、北條氏、足利氏、德川氏先後相繼統治時間總長**682年**。
     - 实质是武官执政，军政府，🇯🇵说是向来有武官执政的传统。
     - 镰仓幕府 Kamakura，室町幕府 Muromachi，德川幕府 Edo是江户即东京/Tokugawa是德川clan。
     - Easy Campaign 用大名统治日本，故事发生在1545年到1600（直到德川幕府结束）的战国时代（游戏里是用哪个氏族统一都行
 - ✔ Who's Your Daddy? 内容略少，小孩太容易死。
 - ✔ 看老E直播联机 Nikoderiko: The Magical World 想起来 PSV 唯一玩进去的游戏，雷曼传奇
 - roblox shrimp game, KaiCenat玩的鱿鱼游戏(squid game)，感觉不错
-- ✔ plug and play, weirder than speed的游戏，一堆插头人插来插去
-- ✔ amenti，这个游戏真恐怖啊，像我去徐州汉墓那种逼仄的墓室，在金字塔里jumpscare和女鬼叫，通关出来的时候好像英雄萨姆的金字塔
+- ✔ plug and play（speed），一堆插头人插来插去
+- ✔ amenti（老e），这个游戏真恐怖啊，像我去徐州汉墓那种逼仄的墓室，在金字塔里jumpscare和女鬼叫，通关出来的时候好像英雄萨姆的金字塔
+- ✔ Dark and Darker（網吧極速體驗）三角洲（狗雨）
 - ✔ drawful 2 英文你画我猜，用浏览器玩，远程的话需要投屏软件比如zoom，或者一群人在一个屋子里看同一个屏幕播放画作，可以自定义主题，只有两种颜色不能换笔
 - ✔ dreadout 这个印尼恐怖游戏相当一般，不停jumpscare，除了amenti这种新鲜的题材，亮度超低的让人什么都看不清的游戏我其实都不爱玩，寂静岭2和darkwood这种靠营造恐怖氛围而不是纯靠jumpscare的游戏才是好的恐怖游戏
 - ✔ Transformice，老鼠合作搭建运奶酪🧀
@@ -340,14 +341,13 @@
 - ✔ Fate/stay night TV 01-24命运之夜 Reseed在nas上下了个资源，还行，总算是看过了Fate
 
 2023年也玩了很多很多游戏，大部分认真玩的都写测评了，年终时又跟女友沉迷了自走棋音乐赛季。  
-<div align=center><img src="/assets/上钻了.png" loading="lazy" alt="光速上钻" width="50%" height="50%"></div>  
+<div align=center><img src="/assets/上钻了.png" loading="lazy" alt="光速上钻(s10強音爭霸)" width="50%" height="50%"></div>  
 
 三国杀玩了一年充了千把块，在23年打了6个赛季排位拿到神赵云之后终于弃坑，只看小半个橙子视频下饭。  
 2024年5月中旬又因为受伤玩画之灵赛季，给对象的号上了个大师，这俩赛季都是用3星3费阵容赌狗运营一招鲜吃遍天。  
-<div align=center><img src="/assets/IMG_0975.PNG" loading="lazy" alt="简单上钻" width="50%" height="50%"></div>  
 <div align=center><img src="/assets/IMG_0980.PNG" loading="lazy" alt="6幽魂3星4费塞拉斯也随便打" width="50%" height="50%"></div>  
 <div align=center><img src="/assets/IMG_0983.PNG" loading="lazy" alt="一天5把鸡，连续3鸡上大师" width="50%" height="50%"></div>  
-<div align=center><img src="/assets/IMG_0985.PNG" loading="lazy" alt="跟呼吸一样简单" width="50%" height="50%"></div>  
+<div align=center><img src="/assets/IMG_0985.PNG" loading="lazy" alt="跟呼吸一样简单(s11畫之靈)" width="50%" height="50%"></div>  
 
 # 旁白
 写这个log时是2024-03-03，我们项目有13个人去毕业答辩了，而我还在看gggy直播。
