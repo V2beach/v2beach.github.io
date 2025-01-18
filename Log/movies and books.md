@@ -44,6 +44,10 @@
 - ✔ 一句顶一万句，刘震云
     - 写回旋镖故事的能力太顶级了，中国的百年孤独？
 - cosmos Carl Sagen
+- [第二次世界大戰戰史，李德·哈特 & 钮先钟](https://github.com/V2beach/books/blob/main/第二次世界大战战史%20(李德·哈特)%20(Z-Library).epub)
+    - 英國人寫的，據說寫東線的筆墨較少，且幾乎沒寫中國戰場，但是評價最好，所以從這本讀起構建大的二戰畫面
+- [第二次世界大戰史，K·蒂佩尔斯基希](https://bg.z-library.sk/s/?content_type=book&q=第二次世界大战战史+K·蒂佩尔斯基希)
+    - 德國人寫的，並不是非要都讀完，[只是想玩明白大戰略遊戲](https://blog.v2beach.cn/2025/01/17/torch-nn-parallel/#在今年的結尾想玩好大戰略遊戲)，戰爭事典63講戰間期德軍發展的書找不到資源，沒想到找到了評價這麼好的兩本書
 
 ## movies
 - ✔ 猛龙过江The Way of  the Dragon
