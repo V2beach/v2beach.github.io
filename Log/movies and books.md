@@ -44,7 +44,7 @@
 - ✔ 一句顶一万句，刘震云
     - 写回旋镖故事的能力太顶级了，中国的百年孤独？
 - cosmos Carl Sagen
-- [第二次世界大戰戰史，李德·哈特 & 钮先钟](https://github.com/V2beach/books/blob/main/第二次世界大战战史%20(李德·哈特)%20(Z-Library).epub)
+- [第二次世界大戰戰史，李德·哈特 & 钮先钟](https://github.com/V2beach/books/blob/main/第二次世界大战战史（李德·哈特）（Z-Library）.epub)
     - 英國人寫的，據說寫東線的筆墨較少，且幾乎沒寫中國戰場，但是評價最好，所以從這本讀起構建大的二戰畫面
 - [第二次世界大戰史，K·蒂佩尔斯基希](https://bg.z-library.sk/s/?content_type=book&q=第二次世界大战战史+K·蒂佩尔斯基希)
     - 德國人寫的，並不是非要都讀完，[只是想玩明白大戰略遊戲](https://blog.v2beach.cn/2025/01/17/torch-nn-parallel/#在今年的結尾想玩好大戰略遊戲)，戰爭事典63講戰間期德軍發展的書找不到資源，沒想到找到了評價這麼好的兩本書
@@ -152,6 +152,9 @@
 - 6.s081用C, RISC-V，這兩門課都要有體系結構基礎，可雲大體系結構老師太爛了，只跟著實驗課老師學了一點電路和模擬知識，所以應該得先補體系結構。[(時間多久做難度高的cs162，時間緊就做6.s081 xv6，教授是PDOS的Morris作者頂級黑客)](https://csdiy.wiki/操作系统/MIT6.S081/)
 - 6.824 分布式系統，老師跟上面一樣。用Go，[跟cs231n一樣答案無數力圖自主完成，學過作業系統應該就能完成。](https://csdiy.wiki/并行与分布式系统/MIT6.824/)
 
+- ✔ 行尸走肉，电视剧很难看
+- ✔ [辩护人](https://world.kbs.co.kr/special/northkorea/contents/625/war_panorama_c.html?lang=c)，卢武铉（第六共和国），第五共和国
+
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
 - ✔ Undertale
@@ -205,18 +208,20 @@
     - 除了能杀时间外一无是处，12-24 平安夜这天本来要跑专利代码，中午打开游戏打完就到晚上了。
     - 训练关不知为何，战胜了其他文明没有战争胜利，完成了 3 个火星殖民地研究没有科技胜利。打了五百个回合还没结束，完全没有新内容了，连伟人都刷光了，野怪不会打我，无尽的生产和商人循环。
 <div align=center><img src="/assets/IMG_1212.JPG" loading="lazy" alt="" width="50%" height="50%"></div>
-- 欧陆风云 4，Europa Universalis IV，打算主玩英国，根据 15c 到 19c [去年写的 timeline](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)，当作 RPG 应该会很好玩。
+- ✔ 欧陆风云 4，Europa Universalis IV，打算主玩英国，根据 15c 到 19c [去年写的 timeline](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)，当作 RPG 应该会很好玩。
+    - 玩不下去转钢丝了
 - ✔ 永劫無間（網吧跟女友雙排）漫威爭鋒（老e）
 - ✔ 燕云十六声（老e和狗雨）比诛仙世界（狗雨）强多了，我工作过了解过的公司里网易给我的印象算是最好的之一了，逆水寒永劫无间梦幻西游，第五人格阴阳师狼人杀蛋仔，[年底的Marvel Rivals漫威争锋太牛逼了，比Marvel Avengers做得强太多了，](https://youtu.be/lWtCs3r8WQk?si=qDSjq7VUk5zP58k1)一月份先投网易吧。
 - Fallout辐射4，博德3中断，SP通关，等molgen结果的时候来玩玩，评价说是好过本体的Far Harbor冬促没买。
     - 至少一年没玩这种接近第一人称的游戏，玩一小时就晕。
 - Frostpunk，从刚发售王老菊做视频到现在，断断续续地一直在尝试但没玩下去。跟 11 bits 的 This War of Mine 一样，从 2019 年玩到 2022 年才通。
     - macOS玩不了的游戏就有点麻烦，懒得换设备玩。
-- ✔ Total War: SHOGUN 2，突然又对幕府全战2有兴趣了，打通几次战役攒10个成就拉倒。
+- Total War: SHOGUN 2，突然又对幕府全战2有兴趣了，打通几次战役攒10个成就拉倒。
     - 幕府（日语：幕府／ばくふ bakufu）是指日本歷史上由征夷大將軍（俗稱幕府將軍，簡稱將軍）領導與統治的武家政權，為日本特有國情下所產生近似「尊王攘夷」的政治體制，**從1185年（中国还没到元朝，五代十国南北宋辽金元）源平合戰結束時開始，至1867年明治維新時結束，歷經鎌倉幕府、室町幕府、江戶幕府**三個幕府時期，由河內源氏、北條氏、足利氏、德川氏先後相繼統治時間總長**682年**。
     - 实质是武官执政，军政府，🇯🇵说是向来有武官执政的传统。
     - 镰仓幕府 Kamakura，室町幕府 Muromachi，德川幕府 Edo是江户即东京/Tokugawa是德川clan。
     - Easy Campaign 用大名统治日本，故事发生在1545年到1600（直到德川幕府结束）的战国时代（游戏里是用哪个氏族统一都行
+    - 剛發現歐陸風雲4跟幕府全戰2是同一時代的遊戲，其實可以在歐陸風雲裡復刻幕府2故事用大名統一日本
 - ✔ Who's Your Daddy? 内容略少，小孩太容易死。
 - ✔ 看老E直播联机 Nikoderiko: The Magical World 想起来 PSV 唯一玩进去的游戏，雷曼传奇
 - roblox shrimp game, KaiCenat玩的鱿鱼游戏(squid game)，感觉不错
@@ -250,6 +255,11 @@
     - ✔ 2025.1.16配好環境下好材料數據
     - ✘ 2025.1.17調通8卡後湊合跑一個結果，頭痛不知是因為被感冒還是最近一週落枕和頸椎痛
 - HOI4，2020年5月疫情在家摸索了一阵子战线后造了个核弹速通完就没玩了，这次看着[小狐狸2024年底刚做的攻略](https://b23.tv/MCyefcH)和[二战史](#books)给它玩明白。
+    - 成就的價值對我來說應該只在於：激勵我完全探索我熱愛的遊戲。
+    - 這基於這樣一個道理：如果我熱愛一個遊戲，那遊戲質量應該很棒，那大概率製作組會精心設計成就，以此為引導讓玩家體驗所有內容；
+    - 如果我不那麼熱愛，成就的價值就是讓我看看探索到底之後最稀有的成就代表什麼遊戲內容。
+    - 像這種大戰略遊戲，成就能給本來沒有遊戲目標的遊戲一個目標。
+    - [鋼絲這個遊戲就是我想試著全成就的類型。](https://www.reddit.com/r/hoi4/search/?q=achievement)比歐陸風雲4純表格有趣，又比幕府全戰2每場戰役每個內政都要操作的視角更宏觀。[不過真的沒必要全成就](https://www.reddit.com/r/hoi4/comments/152tqia/i_have_all_hoi4_achievementsama/)，[還是得多touch grass。](https://www.urbandictionary.com/define.php?term=touch%20grass)
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
