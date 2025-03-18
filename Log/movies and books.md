@@ -154,6 +154,7 @@
 
 - ✔ 行尸走肉，电视剧很难看
 - ✔ [辩护人](https://world.kbs.co.kr/special/northkorea/contents/625/war_panorama_c.html?lang=c)，卢武铉（第六共和国），第五共和国
+- ✔ 猛禽暴隊：解瘋小丑女，跟芭比一樣爛的女性主義電影
 
 ## games
 - ✔ 星之卡比NS(wii Kirby's Return to Dream Land Deluxe)
@@ -209,22 +210,23 @@
     - 训练关不知为何，战胜了其他文明没有战争胜利，完成了 3 个火星殖民地研究没有科技胜利。打了五百个回合还没结束，完全没有新内容了，连伟人都刷光了，野怪不会打我，无尽的生产和商人循环。
 <div align=center><img src="/assets/IMG_1212.JPG" loading="lazy" alt="" width="50%" height="50%"></div>
 - ✔ 欧陆风云 4，Europa Universalis IV，打算主玩英国，根据 15c 到 19c [去年写的 timeline](https://blog.v2beach.cn/2023/05/21/Timeline-of-the-British-Isles/)，当作 RPG 应该会很好玩。
-    - 玩不下去转钢丝了
+    - 玩不下去转钢丝了，原來不光幕府全戰2，**天國拯救Kingdom Come: Deliverance也是這個時代的遊戲，波希米亞王國，所謂中世紀騎士。**中2全战也是中世纪（total war medieval 2 LotR Divide and Conquer 魔戒mod看起来超级好玩），在今年结束之前2025.1.28腊月廿九除夕统计一下这些游戏的time period：
 - ✔ 永劫無間（網吧跟女友雙排）漫威爭鋒（老e）
 - ✔ 燕云十六声（老e和狗雨）比诛仙世界（狗雨）强多了，我工作过了解过的公司里网易给我的印象算是最好的之一了，逆水寒永劫无间梦幻西游，第五人格阴阳师狼人杀蛋仔，[年底的Marvel Rivals漫威争锋太牛逼了，比Marvel Avengers做得强太多了，](https://youtu.be/lWtCs3r8WQk?si=qDSjq7VUk5zP58k1)一月份先投网易吧。
 - Fallout辐射4，博德3中断，SP通关，等molgen结果的时候来玩玩，评价说是好过本体的Far Harbor冬促没买。
     - 至少一年没玩这种接近第一人称的游戏，玩一小时就晕。
 - Frostpunk，从刚发售王老菊做视频到现在，断断续续地一直在尝试但没玩下去。跟 11 bits 的 This War of Mine 一样，从 2019 年玩到 2022 年才通。
     - macOS玩不了的游戏就有点麻烦，懒得换设备玩。
-- Total War: SHOGUN 2，突然又对幕府全战2有兴趣了，打通几次战役攒10个成就拉倒。
+- ✔ Total War: SHOGUN 2，突然又对幕府全战2有兴趣了，打通几次战役攒10个成就拉倒。
     - 幕府（日语：幕府／ばくふ bakufu）是指日本歷史上由征夷大將軍（俗稱幕府將軍，簡稱將軍）領導與統治的武家政權，為日本特有國情下所產生近似「尊王攘夷」的政治體制，**從1185年（中国还没到元朝，五代十国南北宋辽金元）源平合戰結束時開始，至1867年明治維新時結束，歷經鎌倉幕府、室町幕府、江戶幕府**三個幕府時期，由河內源氏、北條氏、足利氏、德川氏先後相繼統治時間總長**682年**。
     - 实质是武官执政，军政府，🇯🇵说是向来有武官执政的传统。
     - 镰仓幕府 Kamakura，室町幕府 Muromachi，德川幕府 Edo是江户即东京/Tokugawa是德川clan。
-    - Easy Campaign 用大名统治日本，故事发生在1545年到1600（直到德川幕府结束）的战国时代（游戏里是用哪个氏族统一都行
+    - ✔ Easy Campaign 用大名统治日本，故事发生在1545年到1600（直到德川幕府结束）的战国时代（游戏里是用哪个氏族统一都行
     - 剛發現歐陸風雲4跟幕府全戰2是同一時代的遊戲，其實可以在歐陸風雲裡復刻幕府2故事用大名統一日本
+    - 大年初二跟妈吵了最凶一架后晚上熬夜通了，买了除九的票，希望今年一切顺利。
 - ✔ Who's Your Daddy? 内容略少，小孩太容易死。
 - ✔ 看老E直播联机 Nikoderiko: The Magical World 想起来 PSV 唯一玩进去的游戏，雷曼传奇
-- roblox shrimp game, KaiCenat玩的鱿鱼游戏(squid game)，感觉不错
+- roblox shrimp game, KaiCenat玩的鱿鱼游戏(squid game)，感觉不错有空试试
 - ✔ plug and play（speed），一堆插头人插来插去
 - ✔ amenti（老e），这个游戏真恐怖啊，像我去徐州汉墓那种逼仄的墓室，在金字塔里jumpscare和女鬼叫，通关出来的时候好像英雄萨姆的金字塔
 - ✔ Dark and Darker（網吧極速體驗）三角洲（狗雨）
@@ -240,7 +242,8 @@
     - 全成就了
 <div align=center><img src="/assets/Screenshot 2025-01-15 at 01.03.48.png" loading="lazy" alt="" width="66%" height="66%"></div>
 - ✔ Darkwood，很牛的恐怖游戏，先打了个prologue有心情再玩
-- Cube Escape: Paradox，锈湖的游戏到目前我似乎只玩了跟女友双人的 The Past Within
+- ✔ Cube Escape: Paradox，锈湖的游戏到目前我似乎只玩了跟女友双人的 The Past Within
+    - 只能玩chapter1，還不錯，chapter2暫時不玩了（其實今天已經年初三
 - Planescape: Torment异域镇魂曲，跟Baldur's Gate是黑岛Black Isle同一年的作品？1999
     - Plane原来是位面的意思，2025.1.15尝试，时隔一年3个月第一次接触老板果然让我做了那些我认为他会让我做的（导电），但是这次我跟着自己的思路走，以毕业为核心
     - Black Isle Studios黑岛1996成立2003就倒闭了
@@ -250,7 +253,9 @@
 - ✔ Verdun, Tannenberg坦能堡, Isonzo(意大利和奥匈帝国围绕伊松佐河的战役)
     - 发现了好东西，BlackMill这仨一战游戏看起来不错而且都支持M1，诺曼底跟凡尔登规模相比如何？
     - 用便宜的凡爾登探探路，據說較新的Isonzo也沒人玩
-    - verdun很好玩，跟小時候玩的戰地感覺幾乎一樣，都是沒有準星，但這個遊戲的換彈和戰線戰壕trench似乎更真實，verdun人也不多，不過不用湊齊人，bot也不錯
+    - verdun很好玩，跟小時候玩的戰地1943的感覺幾乎一樣，都是沒有準星，但這個遊戲的換彈和戰線戰壕trench似乎更真實，verdun人也不多，不過不用湊齊人，bot也不錯。
+    - 結果2025-1-22開始不停閃退，驗證遊戲完整性也沒用，也許重裝有效，不過準備轉女友送的ARMA3，或者系列其他作品
+<div align=center><img src="/assets/2025-1-20.png" loading="lazy" alt="" width="66%" height="66%"></div>
 - L40S跑实验，結果沒權限，暫且改成2080Ti八卡跑實驗。
     - ✔ 2025.1.16配好環境下好材料數據
     - ✘ 2025.1.17調通8卡後湊合跑一個結果，頭痛不知是因為被感冒還是最近一週落枕和頸椎痛
@@ -260,6 +265,14 @@
     - 如果我不那麼熱愛，成就的價值就是讓我看看探索到底之後最稀有的成就代表什麼遊戲內容。
     - 像這種大戰略遊戲，成就能給本來沒有遊戲目標的遊戲一個目標。
     - [鋼絲這個遊戲就是我想試著全成就的類型。](https://www.reddit.com/r/hoi4/search/?q=achievement)比歐陸風雲4純表格有趣，又比幕府全戰2每場戰役每個內政都要操作的視角更宏觀。[不過真的沒必要全成就](https://www.reddit.com/r/hoi4/comments/152tqia/i_have_all_hoi4_achievementsama/)，[還是得多touch grass。](https://www.urbandictionary.com/define.php?term=touch%20grass)
+- ✔ 九球輪盤賭（老e），還挺不錯
+- ✔ Football Manager 2021
+    - 用英文根本看不懂位置簡稱，改成繁中簡中好多了，事隔一年半終於玩得下去了。
+    - ✔ 安排喜歡的拜仁球員真的很爽，以前捏的自己的臉被女友拿去當小紅書頭像了，這次的遊戲目標是50%成就。43成就后[发现这游戏的数值模拟是一坨屎](https://b23.tv/fLIpHKr)，对进球正儿八经有影响的属性只有acceleration和pace，然后是什么工作投入work rate有个最低标准，甚至有负相关bug属性，挖掘潜能Potential Ability就是分配CA(Current Ability)，最好的培养速度训练方案是完全休息，系统推荐的训练方案均衡发展属性就是一坨屎，弃了把全战战役打掉。
+    - 還以為強度是戰術強度，結果是體能強度，我說怎麼突然變強連勝，結果踢幾場全受傷不說，還容易吃紅牌。
+- ✔ ARMA3
+    - 跟博得之門3一樣是我收到的女友送的最好的遊戲，這次是年初一600天紀念日禮物
+    - 把prologue打了，之后有空再玩，想在M1 FPS玩爽应该还是得打凡尔登那系列游戏。
 
 # 2023农历年
 一本书没看，但因为搞了NAS看了一堆电影。
