@@ -71,7 +71,7 @@ https://en.wikipedia.org/wiki/List_of_countries_by_social_welfare_spending#Per_c
 ![welfare budget in government expenditure](/assets/ent16.jpg)
 
 # 地方债土地财政套现技术
-不明白播客、马督工。
+不明白播客、马督工、小Lin。
 
 《置身事内》
 
